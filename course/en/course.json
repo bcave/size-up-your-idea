@@ -1,0 +1,361 @@
+{
+  "_id": "596735ce1568f8e516392b3e",
+  "_createdAt": 1499936206025,
+  "_modifiedAt": 1501085944577,
+  "__v": 1,
+  "_refId": "58b01c1050d3bf600d233b89",
+  "displayTitle": "Would my idea make a good business?",
+  "_theme": "58b69e3d6faa37e74495146f",
+  "_swipeMenu": {
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuContentItems": [],
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center"
+    },
+    "_shouldShowControlsOnBottom": false,
+    "_shouldDisableItemScaling": false,
+    "_shouldDisableDetailOnHover": false
+  },
+  "_standardMenu": {
+    "_shouldShowIconOnMenuItems": true,
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuContentItems": [],
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center"
+    }
+  },
+  "_playlistMenu": {
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuGroupLabel": "Topics"
+  },
+  "_mapMenu": {
+    "_closeButtonText": "Close",
+    "_defaultPointerImage": {
+      "_id": "58af18c350d3bf600d233b6e",
+      "_extension": "png",
+      "_type": "image"
+    },
+    "_mapImage": {
+      "_id": "58b02c5c6faa37e744951397",
+      "_extension": "png",
+      "_type": "image",
+      "_size": "large"
+    }
+  },
+  "_coverMenu": {
+    "_shouldShowProgressBarsOnMenus": true,
+    "_coverButtonText": "View",
+    "src": {
+      "_id": "58b02c5c6faa37e744951397",
+      "_extension": "png",
+      "_type": "image",
+      "_size": "large"
+    }
+  },
+  "_boxMenu": {
+    "_menuContentItems": [],
+    "_shouldShowProgressBarsOnMenus": true,
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center"
+    }
+  },
+  "_resources": {
+    "_resourcesItems": [],
+    "_filterButtons": {
+      "link": "Links",
+      "media": "Media",
+      "document": "Documents",
+      "all": "All"
+    },
+    "title": "Resources",
+    "_shouldDisableNavigationSideItem": false,
+    "_isEnabled": true
+  },
+  "_progress": {
+    "_isOnRightSide": true,
+    "_progressNavigationItemIcon": "list3",
+    "progressSidebarAriaLabel": "Tab to move through the page items",
+    "progressAriaLabel": "Select this button to toggle the progress sidebar",
+    "courseExitButtonText": "Exit course",
+    "_showCourseExitButton": true,
+    "_showComponentProgress": false,
+    "title": "Progress",
+    "_isEnabled": true
+  },
+  "_courseNavigation": {
+    "courseNavigationSidebarAriaLabel": "Tab to move through the course items",
+    "courseNavigationAriaLabel": "Select this button to toggle the course navigation sidebar",
+    "_isOnRightSide": false,
+    "icon": "document2",
+    "homeText": "Home",
+    "_isEnabled": true
+  },
+  "_certificate": {
+    "_orientation": "portrait",
+    "_graphic": {
+      "_id": "58b6b30d6faa37e744951475",
+      "_extension": "png",
+      "_type": "image"
+    },
+    "_secondaryLogo": {
+      "_id": "58b6b40e6faa37e74495147a",
+      "_extension": "png",
+      "_type": "image"
+    },
+    "_primaryLogo": {
+      "_id": "58b0376a6faa37e7449513a9",
+      "_extension": "png",
+      "_type": "image"
+    },
+    "dateLabel": "Date awarded:",
+    "nameLabel": "Name:",
+    "downloadButtonText": "Download certificate",
+    "notAchievedText": "You have not yet achieved the course certificate",
+    "achievedText": "You have achieved the course certificate, click download certificate",
+    "title": "Certificate of completion: Size up your idea",
+    "_obtainmentMethod": "Course Assessment Passed",
+    "_isComplete": false,
+    "_isEnabled": true
+  },
+  "_bookmarking": {
+    "_notificationCancel": "No",
+    "_notificationConfirm": "Yes",
+    "_notificationBody": "Do you want to continue the course?",
+    "_notificationTitle": "This course is in progress",
+    "_isEnabled": true
+  },
+  "_achievements": {
+    "body": "<p>Welcome to rewards, where you can unlock some of the great goodies DBA has to offer...</p>",
+    "_badges": {
+      "_items": [
+        {
+          "itemIndex": 1,
+          "_id": "58f78e3316078b376ae9d0a9",
+          "title": "Discount code",
+          "body": "<p>This reward lets you apply for money off at one of our discount partners</p>",
+          "_pointsRequired": 30,
+          "_badgeCompletionType": "points",
+          "_graphic": {
+            "src": {
+              "_id": "58f78f7316078b376ae9d0aa",
+              "_extension": "png",
+              "_type": "image"
+            }
+          }
+        },
+        {
+          "body": "<p>This reward entitled you to claim your free desk at one of our exclusive working spaces.</p>",
+          "_id": "58b035ec6faa37e7449513a8",
+          "itemIndex": 0,
+          "title": "Free desk space",
+          "_pointsRequired": 60,
+          "_badgeCompletionType": "points",
+          "_graphic": {
+            "src": {
+              "_id": "58f78e0816078b376ae9d0a7",
+              "_extension": "png",
+              "_type": "image"
+            }
+          }
+        },
+        {
+          "body": "<p>This reward gives you a queue jump to interview for a paid position at some of the UKs best tech companies</p>",
+          "itemIndex": 2,
+          "_id": "58f78fa016078b376ae9d0ac",
+          "title": "Internship fast track",
+          "_pointsRequired": 100,
+          "_badgeCompletionType": "points",
+          "_graphic": {
+            "src": {
+              "_id": "58f78fbd16078b376ae9d0ad",
+              "_extension": "png",
+              "_type": "image"
+            }
+          }
+        }
+      ],
+      "badgeNotifyTitle": "You've unlocked a new reward!",
+      "badgesLabel": "Badges",
+      "badgesName": "Rewards",
+      "_isEnabled": true
+    },
+    "_stars": {
+      "starsMissedLabel": "Stars missed",
+      "starsToCollectLabel": "Stars to collect",
+      "starsLabel": "Stars",
+      "starsName": "Stars",
+      "_isEnabled": false
+    },
+    "_lives": {
+      "_totalLives": 3,
+      "livesLabel": "Lives",
+      "livesName": "Lives",
+      "_isEnabled": false
+    },
+    "_points": {
+      "_defaultPoints": 10,
+      "pointsLabel": "points",
+      "pointsName": "Points",
+      "_isEnabled": true
+    },
+    "title": "Rewards",
+    "_isEnabled": true
+  },
+  "_pageBackgroundImage": {
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover",
+      "src": {
+        "_id": "592e999902778c512a0afb9b",
+        "_extension": "jpeg",
+        "_type": "image"
+      }
+    }
+  },
+  "_courseTags": [
+    "592e910302778c512a0afb8c",
+    "592e913202778c512a0afb90"
+  ],
+  "_fonts": {
+    "_installed": [],
+    "_google": []
+  },
+  "_downloads": {
+    "viewDownloadsButtonText": "View downloads",
+    "nameRequiredText": "Name required",
+    "nameLabelText": "Name",
+    "body": "",
+    "title": "Downloads"
+  },
+  "_globals": {
+    "_questionAttempts": {
+      "_attempts": 1,
+      "_shouldUseGlobalAttempts": false
+    },
+    "_feedbackText": {
+      "incorrectFinalFeedback": "Incorrect",
+      "incorrectNotFinalFeedback": "Incorrect, try again",
+      "partlyCorrectFinalFeedback": "Partly correct",
+      "partlyCorrectNotFinalFeedback": "Partly correct, try again",
+      "correctFeedback": "Correct"
+    }
+  },
+  "_buttons": {
+    "disabledAriaLabel": "This button is disabled.",
+    "remainingAttemptText": "final attempt",
+    "remainingAttemptsText": "attempts remaining",
+    "_hideFeedback": {
+      "ariaLabel": "Select this button to hide the feedback",
+      "buttonText": "Close"
+    },
+    "_showFeedback": {
+      "ariaLabel": "Select this button to show the feedback",
+      "buttonText": "Show Feedback"
+    },
+    "_hideCorrectAnswer": {
+      "ariaLabel": "Select this button to hide the correct answer",
+      "buttonText": "Hide Answer"
+    },
+    "_showCorrectAnswer": {
+      "ariaLabel": "Select this button to show the correct answer",
+      "buttonText": "Show Answer"
+    },
+    "_reset": {
+      "ariaLabel": "Select this button to reset your answer",
+      "buttonText": "Reset"
+    },
+    "_submit": {
+      "ariaLabel": "Select this button to submit your answer",
+      "buttonText": "Submit"
+    }
+  },
+  "_footerNav": {
+    "pageOfText": "of",
+    "_shouldDisableTitleButtonText": false,
+    "nextButtonText": "Next",
+    "previousButtonText": "Previous",
+    "_isEnabled": true
+  },
+  "_notify": {
+    "_buttonAlignment": "center",
+    "_iconAlignment": "center",
+    "_bodyTextAlignment": "center",
+    "_titleTextAlignment": "center"
+  },
+  "_navigation": {
+    "sidebarAriaLabel": "Tab to move through extra navigation items",
+    "hamburgerAriaLabel": "Select this button to toggle the sidebar navigation",
+    "dashboardText": "Dashboard",
+    "backText": "Back to Page",
+    "backToMenuText": "Back to Menu",
+    "_shouldHideMenu": true
+  },
+  "_version": {
+    "versionTitle": "aArdent Edits",
+    "_isLanguageVersion": false,
+    "_isVersion": false
+  },
+  "_reviews": {
+    "_reviews": [],
+    "_isUnderReview": false
+  },
+  "_categoryGroups": [],
+  "_categories": [],
+  "_isEditLocked": false,
+  "_displayTitleSettings": {
+    "_textAlign": "center",
+    "_fontSize": ""
+  },
+  "title": "1. Would my idea make a good business? master aArdent Edits",
+  "_type": "course"
+}

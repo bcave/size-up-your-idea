@@ -1,0 +1,12 @@
+{
+  "_id": "58b41ffc6faa37e744951408",
+  "_type": "image",
+  "description": "",
+  "title": "Banner 1",
+  "_sizes": {
+    "extraLarge": true,
+    "large": true,
+    "small": true
+  },
+  "_extension": "png"
+}
