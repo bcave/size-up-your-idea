@@ -1,7 +1,7 @@
 {
-  "_id": "596735ce1568f8e516392b40",
+  "_id": "598b06d32cb2f32b65813d9c",
   "_menu": "boxMenu",
-  "_courseId": "596735ce1568f8e516392b3e",
+  "_courseId": "598b06d32cb2f32b65813d9a",
   "__v": 630,
   "_themeSettings": {
     "_colors": {
@@ -370,6 +370,9 @@
       "_id": "58f78fbd16078b376ae9d0ad"
     },
     {
+      "_id": "598c3250abd446e07f9af8c7"
+    },
+    {
       "_id": "58b0376a6faa37e7449513a9"
     },
     {
@@ -460,19 +463,19 @@
       "_id": "595263daedb3d22028a434cd"
     },
     {
-      "_id": "58b550dc6faa37e744951426"
+      "_id": "598829177d86c20e2a40fb0b"
     },
     {
-      "_id": "58b551a46faa37e744951428"
+      "_id": "598829267d86c20e2a40fb0c"
     },
     {
-      "_id": "58b551cf6faa37e74495142a"
+      "_id": "598829337d86c20e2a40fb0d"
     },
     {
-      "_id": "58b5525d6faa37e74495142c"
+      "_id": "598829407d86c20e2a40fb0e"
     },
     {
-      "_id": "58b555116faa37e744951430"
+      "_id": "5988294a7d86c20e2a40fb0f"
     },
     {
       "_id": "5952642eedb3d22028a434d1"
@@ -482,15 +485,6 @@
     },
     {
       "_id": "595264a2edb3d22028a434d3"
-    },
-    {
-      "_id": "58b6f8516faa37e744951498"
-    },
-    {
-      "_id": "58c2d81213b751d90c4ed41d"
-    },
-    {
-      "_id": "58c2d82013b751d90c4ed41f"
     },
     {
       "_id": "59526844edb3d22028a434db"
@@ -506,9 +500,6 @@
     },
     {
       "_id": "5953bdb9e0711ea656fe2a0d"
-    },
-    {
-      "_id": "58b867746faa37e744951697"
     },
     {
       "_id": "59526949edb3d22028a434dd"
@@ -577,19 +568,19 @@
       "_id": "58c92fe613b751d90c4ed437"
     },
     {
-      "_id": "58c955eb13b751d90c4ed45f"
+      "_id": "59882feb7d86c20e2a40fb10"
     },
     {
-      "_id": "58c9564813b751d90c4ed461"
+      "_id": "598830007d86c20e2a40fb11"
     },
     {
-      "_id": "58c9566113b751d90c4ed463"
+      "_id": "5988301f7d86c20e2a40fb12"
     },
     {
-      "_id": "58c9566f13b751d90c4ed465"
+      "_id": "598830297d86c20e2a40fb13"
     },
     {
-      "_id": "58c9569013b751d90c4ed467"
+      "_id": "598830327d86c20e2a40fb14"
     },
     {
       "_id": "595266b5edb3d22028a434d7"
@@ -637,13 +628,13 @@
       "_id": "5953d358e0711ea656fe2a16"
     },
     {
-      "_id": "58c02fee13b751d90c4ed3ef"
+      "_id": "598834a27d86c20e2a40fb15"
     },
     {
-      "_id": "58c02fc813b751d90c4ed3ed"
+      "_id": "598834ac7d86c20e2a40fb16"
     },
     {
-      "_id": "58c02fa313b751d90c4ed3eb"
+      "_id": "598834b67d86c20e2a40fb17"
     }
   ],
   "_components": [
@@ -653,23 +644,19 @@
     "videoStream",
     "narrative",
     "mcq",
-    "textInput",
+    "matching",
     "dragAndDrop",
     "interactiveVideo",
     "ordering",
     "hotgraphic",
     "flipCard",
-    "attachment",
-    "matching",
     "flowChart",
     "textAndGraphic"
   ],
   "_extensions": [
     "progress",
-    "courseNavigation",
-    "certificate",
-    "bookmarking",
-    "resources",
-    "achievements"
+    "achievements",
+    "courseAttainment",
+    "branding"
   ]
 }

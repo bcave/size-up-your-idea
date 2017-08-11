@@ -1,11 +1,11 @@
 [
   {
-    "_id": "596735ce1568f8e516392b41",
-    "_courseId": "596735ce1568f8e516392b3e",
-    "_parentId": "596735ce1568f8e516392b3e",
+    "_id": "598b06d32cb2f32b65813d9d",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "_parentId": "598b06d32cb2f32b65813d9a",
     "_sortOrder": 0,
     "__v": 0,
-    "displayTitle": "What makes an entrepreneur?",
+    "displayTitle": "How entrepreneurs define themselves",
     "duration": "15 minutes",
     "_refId": "58b03f6a6faa37e7449513ab",
     "_swipeMenu": {
@@ -137,7 +137,7 @@
       }
     },
     "_heroImage": {
-      "title": "",
+      "title": "What makes an entrepreneur?",
       "_graphic": {
         "_large": {
           "src": {
@@ -157,17 +157,17 @@
     "_categories": [],
     "durationLabel": "🕜 ",
     "linkText": "Let's go!",
-    "title": "What makes an entrepreneur?",
+    "title": "How entrepreneurs define themselves",
     "_type": "page",
     "_courseOrder": "0"
   },
   {
-    "_id": "596735d71568f8e516392be4",
-    "_courseId": "596735ce1568f8e516392b3e",
-    "_parentId": "596735ce1568f8e516392b3e",
+    "_id": "598b06d52cb2f32b65813e33",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "_parentId": "598b06d32cb2f32b65813d9a",
     "_sortOrder": 1,
     "__v": 0,
-    "displayTitle": "How to have more ideas",
+    "displayTitle": "How entrepreneurs think up ideas",
     "duration": "15 minutes",
     "_refId": "58b7035a6faa37e7449515a7",
     "_swipeMenu": {
@@ -312,17 +312,17 @@
     "_categories": [],
     "durationLabel": "🕜 ",
     "linkText": "Let's go!",
-    "title": "How to have more ideas",
+    "title": "How entrepreneurs think up ideas",
     "_type": "page",
     "_courseOrder": "1"
   },
   {
-    "_id": "596735d01568f8e516392b67",
-    "_courseId": "596735ce1568f8e516392b3e",
-    "_parentId": "596735ce1568f8e516392b3e",
+    "_id": "598b06d42cb2f32b65813dc3",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "_parentId": "598b06d32cb2f32b65813d9a",
     "_sortOrder": 2,
     "__v": 0,
-    "displayTitle": "Test your ideas",
+    "displayTitle": "How entrepreneurs test their ideas",
     "duration": "15 minutes",
     "_refId": "58b703116faa37e7449514af",
     "_swipeMenu": {
@@ -459,172 +459,17 @@
     "_categories": [],
     "durationLabel": "🕜 ",
     "linkText": "Let's go!",
-    "title": "Test your ideas",
+    "title": "How entrepreneurs test their ideas",
     "_type": "page",
     "_courseOrder": "2"
   },
   {
-    "_id": "596735d91568f8e516392c0e",
-    "_courseId": "596735ce1568f8e516392b3e",
-    "_parentId": "596735ce1568f8e516392b3e",
+    "_id": "598b06d52cb2f32b65813e0e",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "_parentId": "598b06d32cb2f32b65813d9a",
     "_sortOrder": 3,
     "__v": 0,
-    "displayTitle": "Look for the competition",
-    "duration": "15 minutes",
-    "_refId": "58b703656faa37e7449515e5",
-    "_swipeMenu": {
-      "_shouldShowProgressBarsOnMenus": true,
-      "_mobileBackgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_backgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_heroImage": {
-        "_contentWidth": 70,
-        "textAlignment": "left",
-        "layout": "center"
-      },
-      "_shouldShowControlsOnBottom": false,
-      "_shouldDisableItemScaling": false,
-      "_shouldDisableDetailOnHover": false,
-      "_graphic": {
-        "src": {
-          "_size": "small",
-          "_type": "image",
-          "_extension": "jpeg",
-          "_id": "58b02e8d6faa37e744951399"
-        }
-      }
-    },
-    "_standardMenu": {
-      "_shouldShowIconOnMenuItems": true,
-      "_shouldShowProgressBarsOnMenus": true,
-      "_mobileBackgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_backgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_heroImage": {
-        "_contentWidth": 70,
-        "textAlignment": "left",
-        "layout": "center"
-      }
-    },
-    "_mapMenu": {
-      "_position": {
-        "_top": 50,
-        "_left": 50
-      }
-    },
-    "_coverMenu": {
-      "_shouldShowProgressBarsOnMenus": true,
-      "_coverButtonText": "View",
-      "src": {
-        "_size": "large",
-        "_type": "image",
-        "_extension": "png",
-        "_id": "58b0435a6faa37e7449513e9"
-      }
-    },
-    "_boxMenu": {
-      "_shouldShowProgressBarsOnMenus": true,
-      "_mobileBackgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_backgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_heroImage": {
-        "_contentWidth": 70,
-        "textAlignment": "left",
-        "layout": "center"
-      },
-      "src": {
-        "_size": "small",
-        "_type": "image",
-        "_extension": "png",
-        "_id": "58b949476faa37e7449516ab"
-      }
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "contentObject",
-      "_isEnabled": false
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_fixed": false,
-      "_position": "center",
-      "_size": "cover"
-    },
-    "_backgroundImage": {
-      "_repeat": true,
-      "_fixed": false,
-      "_position": "top",
-      "_size": "contain"
-    },
-    "_heroImage": {
-      "title": "",
-      "_graphic": {
-        "_small": {
-          "src": {
-            "_id": "58b949636faa37e7449516ac",
-            "_extension": "png",
-            "_type": "image",
-            "_size": "small"
-          }
-        },
-        "_large": {
-          "src": {
-            "_id": "58b949636faa37e7449516ac",
-            "_extension": "png",
-            "_type": "image",
-            "_size": "large"
-          }
-        }
-      },
-      "_contentWidth": 70,
-      "textAlignment": "left",
-      "layout": "center",
-      "_isEnabled": false
-    },
-    "_hidePageHeader": false,
-    "_categories": [],
-    "durationLabel": "🕜 ",
-    "linkText": "Let's go!",
-    "title": "Look for the competition",
-    "_type": "page",
-    "_courseOrder": "3"
-  },
-  {
-    "_id": "596735d51568f8e516392bbc",
-    "_courseId": "596735ce1568f8e516392b3e",
-    "_parentId": "596735ce1568f8e516392b3e",
-    "_sortOrder": 4,
-    "__v": 0,
-    "displayTitle": "Talk to your customers",
+    "displayTitle": "How entrepreneurs talk to their customers",
     "duration": "15 minutes",
     "_refId": "58b7034f6faa37e744951569",
     "_swipeMenu": {
@@ -769,17 +614,172 @@
     "_categories": [],
     "durationLabel": "🕜 ",
     "linkText": "Let's go!",
-    "title": "Talk to your customers",
+    "title": "How entrepreneurs talk to their customers",
+    "_type": "page",
+    "_courseOrder": "3"
+  },
+  {
+    "_id": "598b06d62cb2f32b65813e5d",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "_parentId": "598b06d32cb2f32b65813d9a",
+    "_sortOrder": 4,
+    "__v": 0,
+    "displayTitle": "How entrepreneurs assess the competition",
+    "duration": "15 minutes",
+    "_refId": "58b703656faa37e7449515e5",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "58b02e8d6faa37e744951399"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View",
+      "src": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b0435a6faa37e7449513e9"
+      }
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b949476faa37e7449516ab"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_fixed": false,
+      "_position": "top",
+      "_size": "contain"
+    },
+    "_heroImage": {
+      "title": "Look for the competition",
+      "_graphic": {
+        "_small": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "58b949636faa37e7449516ac"
+          }
+        },
+        "_large": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "58b949636faa37e7449516ac"
+          }
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "title": "How entrepreneurs assess the competition",
     "_type": "page",
     "_courseOrder": "4"
   },
   {
-    "_id": "596735d31568f8e516392b95",
-    "_courseId": "596735ce1568f8e516392b3e",
-    "_parentId": "596735ce1568f8e516392b3e",
+    "_id": "598b06d42cb2f32b65813dea",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "_parentId": "598b06d32cb2f32b65813d9a",
     "_sortOrder": 5,
     "__v": 0,
-    "displayTitle": "Develop your products",
+    "displayTitle": "How entrepreneurs develop products",
     "duration": "15 minutes",
     "_refId": "58b703456faa37e74495152b",
     "_swipeMenu": {
@@ -924,7 +924,7 @@
     "_categories": [],
     "durationLabel": "🕜 ",
     "linkText": "Let's go!",
-    "title": "Develop your products",
+    "title": "How entrepreneurs develop products",
     "_type": "page",
     "_courseOrder": "5"
   }

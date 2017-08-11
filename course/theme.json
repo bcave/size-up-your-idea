@@ -1,6 +1,50 @@
 {
   "_id": "58b69e3d6faa37e74495146f",
-  "__v": 7,
+  "__v": 12,
+  "_extensions": {
+    "_tags": {
+      "_settings": {
+        "_headerIcon": "graph",
+        "_navigationIcon": "graph"
+      }
+    },
+    "_resources": {
+      "_settings": {
+        "_headerIcon": "box",
+        "_navigationIcon": "box"
+      }
+    },
+    "_glossary": {
+      "_settings": {
+        "_headerIcon": "library",
+        "_navigationIcon": "typewriter"
+      }
+    },
+    "_courseAssessment": {
+      "_settings": {
+        "_headerIcon": "graduation-hat",
+        "_navigationIcon": "pie-chart"
+      }
+    },
+    "_bookShelf": {
+      "_settings": {
+        "_headerIcon": "library",
+        "_navigationIcon": "bookmark"
+      }
+    },
+    "_achievements": {
+      "_settings": {
+        "_headerIcon": "trophy2",
+        "_navigationIcon": "trophy2"
+      }
+    },
+    "_about": {
+      "_settings": {
+        "_headerIcon": "question",
+        "_navigationIcon": "question"
+      }
+    }
+  },
   "_articleStyles": {
     "article-style-10": {
       "_elements": {
@@ -1427,7 +1471,7 @@
               "@component-item-content-title-text-line-height": 1.25,
               "@component-item-content-title-text-font-weight": 400,
               "@component-item-content-title-text-font-size": "31px",
-              "@component-item-content-title-text-align": "center",
+              "@component-item-content-title-text-align": "left",
               "@component-item-content-title-text-font-family": "@font-1",
               "@component-item-content-title-text-color": "transparent"
             },
@@ -1498,7 +1542,7 @@
               "@component-item-text-disabled-color": "@swatch-22",
               "@component-item-text-selected-color": "#ffffff",
               "@component-item-text-hover-color": "#ffffff",
-              "@component-item-text-color": "#ffffff"
+              "@component-item-text-color": "transparent"
             },
             "_componentItemBackgroundColor": {
               "@component-item-background-visited-color": "@swatch-6",
@@ -3488,7 +3532,7 @@
               "@component-item-content-body-text-line-height": 1.25,
               "@component-item-content-body-text-font-weight": 400,
               "@component-item-content-body-text-font-size": "18px",
-              "@component-item-content-body-text-align": "center",
+              "@component-item-content-body-text-align": "left",
               "@component-item-content-body-text-font-family": "@font-1",
               "@component-item-content-body-text-color": "@swatch-13",
               "@component-item-content-body-text-background-color": "@swatch-23"
@@ -3501,9 +3545,9 @@
               "@component-item-content-title-text-font-weight-tablet": 400,
               "@component-item-content-title-text-font-size-tablet": "25px",
               "@component-item-content-title-text-line-height": 1.25,
-              "@component-item-content-title-text-font-weight": 400,
+              "@component-item-content-title-text-font-weight": 600,
               "@component-item-content-title-text-font-size": "20px",
-              "@component-item-content-title-text-align": "center",
+              "@component-item-content-title-text-align": "left",
               "@component-item-content-title-text-font-family": "@font-1",
               "@component-item-content-title-text-color": "@swatch-13"
             },
@@ -3517,7 +3561,7 @@
               "@component-item-text-line-height": 1.25,
               "@component-item-text-font-weight": 400,
               "@component-item-text-font-size": "22px",
-              "@component-item-text-align": "center",
+              "@component-item-text-align": "left",
               "@component-item-text-font-family": "@font-1"
             },
             "_componentItemPadding": {
@@ -3672,7 +3716,7 @@
               "@component-instruction-text-line-height": 1.25,
               "@component-instruction-text-font-weight": 600,
               "@component-instruction-text-font-size": "15px",
-              "@component-instruction-text-align": "center",
+              "@component-instruction-text-align": "left",
               "@component-instruction-text-font-family": "@font-1",
               "@component-instruction-text-color": "@swatch-13",
               "@component-instruction-text-background-color": "transparent"
@@ -3715,7 +3759,7 @@
               "@component-body-text-line-height": 1.25,
               "@component-body-text-font-weight": 400,
               "@component-body-text-font-size": "18px",
-              "@component-body-text-align": "center",
+              "@component-body-text-align": "left",
               "@component-body-text-font-family": "@font-1",
               "@component-body-text-color": "@swatch-13",
               "@component-body-text-background-color": "transparent"
@@ -3758,7 +3802,7 @@
               "@component-title-text-line-height": 1.25,
               "@component-title-text-font-weight": 700,
               "@component-title-text-font-size": "28px",
-              "@component-title-text-align": "center",
+              "@component-title-text-align": "left",
               "@component-title-text-font-family": "@font-1",
               "@component-title-text-color": "@swatch-13",
               "@component-title-text-background-color": "transparent"
@@ -6816,7 +6860,7 @@
               "@component-body-text-margin-right-tablet": "0px",
               "@component-body-text-margin-top-tablet": "0px",
               "@component-body-text-margin-left": "0px",
-              "@component-body-text-margin-bottom": "15px",
+              "@component-body-text-margin-bottom": "0px",
               "@component-body-text-margin-right": "15px",
               "@component-body-text-margin-top": "40px"
             },
@@ -6897,7 +6941,7 @@
               "@component-margin-top-mobile": "0px",
               "@component-margin-bottom-tablet": "20px",
               "@component-margin-top-tablet": "0px",
-              "@component-margin-bottom": "10px",
+              "@component-margin-bottom": "0px",
               "@component-margin-top": "0px"
             },
             "@component-box-shadow": "none",
@@ -6950,7 +6994,7 @@
               "@block-body-text-margin-right-tablet": "0px",
               "@block-body-text-margin-top-tablet": "0px",
               "@block-body-text-margin-left": "0px",
-              "@block-body-text-margin-bottom": "15px",
+              "@block-body-text-margin-bottom": "0px",
               "@block-body-text-margin-right": "0px",
               "@block-body-text-margin-top": "0px"
             },
@@ -7024,7 +7068,7 @@
               "@block-padding-right-tablet": "20px",
               "@block-padding-top-tablet": "20px",
               "@block-padding-left": "20px",
-              "@block-padding-bottom": "20px",
+              "@block-padding-bottom": "0px",
               "@block-padding-right": "20px",
               "@block-padding-top": "20px"
             },
@@ -7076,7 +7120,7 @@
               "@article-body-text-margin-right-tablet": "0px",
               "@article-body-text-margin-top-tablet": "0px",
               "@article-body-text-margin-left": "0px",
-              "@article-body-text-margin-bottom": "20px",
+              "@article-body-text-margin-bottom": "0px",
               "@article-body-text-margin-right": "0px",
               "@article-body-text-margin-top": "0px"
             },
@@ -7188,16 +7232,16 @@
             },
             "@article-header-background-color": "transparent",
             "_articlePadding": {
-              "@article-padding-left-mobile": "10px",
-              "@article-padding-bottom-mobile": "10px",
-              "@article-padding-right-mobile": "10px",
-              "@article-padding-top-mobile": "0px",
+              "@article-padding-left-mobile": "20px",
+              "@article-padding-bottom-mobile": "20px",
+              "@article-padding-right-mobile": "20px",
+              "@article-padding-top-mobile": "20px",
               "@article-padding-left-tablet": "20px",
               "@article-padding-bottom-tablet": "20px",
               "@article-padding-right-tablet": "20px",
-              "@article-padding-top-tablet": "0px",
+              "@article-padding-top-tablet": "20px",
               "@article-padding-left": "20px",
-              "@article-padding-bottom": "40px",
+              "@article-padding-bottom": "10px",
               "@article-padding-right": "20px",
               "@article-padding-top": "0px"
             },
@@ -10465,7 +10509,7 @@
       "title": "UI Primary Background"
     },
     "@swatch-6": {
-      "color": "rgba(129,88,207,1)",
+      "color": "rgba(57,194,215,1)",
       "title": "Tertiary Dark"
     },
     "@swatch-5": {
@@ -10477,7 +10521,7 @@
       "title": "Secondary Darker"
     },
     "@swatch-3": {
-      "color": "rgba(52,152,219,1)",
+      "color": "rgba(57,194,215,1)",
       "title": "Secondary"
     },
     "@swatch-2": {
@@ -10485,7 +10529,7 @@
       "title": "Primary Darker"
     },
     "@swatch-1": {
-      "color": "rgba(79,193,233,1)",
+      "color": "rgba(57,194,215,1)",
       "title": "Primary"
     }
   },
@@ -10522,7 +10566,7 @@
   "_loading": {
     "_settings": {
       "_loadingGif": {
-        "large": "adapt/css/assets/themeAssets/images/596f20a6761f307331666b8b.gif",
+        "large": "adapt/css/assets/themeAssets/images/598a12a20b855b0c47d1941b.gif",
         "_largeHeight": "150px"
       }
     }
@@ -10960,6 +11004,7 @@
       }
     },
     "_settings": {
+      "_displayQuestionButtonIconAfterText": false,
       "_shouldHideMarkingIcon": false,
       "_isFullLayout": true
     }
@@ -11874,6 +11919,10 @@
     }
   },
   "_footer": {
+    "_settings": {
+      "_footerPrevIcon": "arrow-left",
+      "_footerNextIcon": "arrow-right"
+    },
     "_variables": {
       "_footerCounterText": {
         "@footer-counter-text-line-height-mobile": 1.5,
@@ -12460,6 +12509,11 @@
       "@navigation-side-items-mobile-align": "center",
       "@navigation-side-background-color": "@swatch-7",
       "@navigation-side-width": "54px",
+      "_navigationTopHamburgerIconColors": {
+        "@navigation-top-hamburger-background-color": "transparent",
+        "@navigation-top-hamburger-icon-hover-color": "transparent",
+        "@navigation-top-hamburger-icon-color": "transparent"
+      },
       "_navigationTopIconColors": {
         "@navigation-top-icon-disabled-color": "@swatch-10",
         "@navigation-top-icon-hover-color": "@swatch-1",
@@ -12532,39 +12586,18 @@
   "_icons": "default",
   "_assets": [
     {
-      "_id": "592ebf8e02778c512a0afbae",
-      "title": "Grey-Background",
-      "_type": "image",
+      "_url": "adapt/css/assets/themeAssets/images/592ebf8e02778c512a0afbae.jpeg",
       "_name": "592ebf8e02778c512a0afbae.jpeg",
-      "_url": "adapt/css/assets/themeAssets/images/592ebf8e02778c512a0afbae.jpeg"
+      "_type": "image",
+      "title": "Grey-Background",
+      "_id": "592ebf8e02778c512a0afbae"
     },
     {
-      "_url": "adapt/css/assets/themeAssets/images/59679cbb1568f8e5163933a3.gif",
-      "_name": "59679cbb1568f8e5163933a3.gif",
+      "_id": "598a12a20b855b0c47d1941b",
+      "title": "Wedges (1)",
       "_type": "image",
-      "title": "Triangles",
-      "_id": "59679cbb1568f8e5163933a3"
-    },
-    {
-      "_id": "59679cf01568f8e5163933a4",
-      "title": "111111",
-      "_type": "image",
-      "_name": "59679cf01568f8e5163933a4.gif",
-      "_url": "adapt/css/assets/themeAssets/images/59679cf01568f8e5163933a4.gif"
-    },
-    {
-      "_url": "adapt/css/assets/themeAssets/images/5967a1b51568f8e5163933a6.gif",
-      "_name": "5967a1b51568f8e5163933a6.gif",
-      "_type": "image",
-      "title": "Preloader_3",
-      "_id": "5967a1b51568f8e5163933a6"
-    },
-    {
-      "_id": "596f20a6761f307331666b8b",
-      "title": "Wedges",
-      "_type": "image",
-      "_name": "596f20a6761f307331666b8b.gif",
-      "_url": "adapt/css/assets/themeAssets/images/596f20a6761f307331666b8b.gif"
+      "_name": "598a12a20b855b0c47d1941b.gif",
+      "_url": "adapt/css/assets/themeAssets/images/598a12a20b855b0c47d1941b.gif"
     }
   ],
   "_preset": {

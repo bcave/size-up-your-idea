@@ -1,11 +1,11 @@
 {
-  "_id": "596735ce1568f8e516392b3e",
-  "_createdAt": 1499936206025,
-  "_modifiedAt": 1501085944577,
+  "_id": "598b06d32cb2f32b65813d9a",
+  "_createdAt": 1502283475729,
+  "_modifiedAt": 1502467331796,
   "__v": 1,
   "_refId": "58b01c1050d3bf600d233b89",
-  "displayTitle": "Would my idea make a good business?",
   "_theme": "58b69e3d6faa37e74495146f",
+  "displayTitle": "Speak the language of entrepreneurs",
   "_swipeMenu": {
     "_shouldShowProgressBarsOnMenus": true,
     "_menuContentItems": [],
@@ -59,25 +59,25 @@
   "_mapMenu": {
     "_closeButtonText": "Close",
     "_defaultPointerImage": {
-      "_id": "58af18c350d3bf600d233b6e",
+      "_type": "image",
       "_extension": "png",
-      "_type": "image"
+      "_id": "58af18c350d3bf600d233b6e"
     },
     "_mapImage": {
-      "_id": "58b02c5c6faa37e744951397",
-      "_extension": "png",
+      "_size": "large",
       "_type": "image",
-      "_size": "large"
+      "_extension": "png",
+      "_id": "58b02c5c6faa37e744951397"
     }
   },
   "_coverMenu": {
     "_shouldShowProgressBarsOnMenus": true,
     "_coverButtonText": "View",
     "src": {
-      "_id": "58b02c5c6faa37e744951397",
-      "_extension": "png",
+      "_size": "large",
       "_type": "image",
-      "_size": "large"
+      "_extension": "png",
+      "_id": "58b02c5c6faa37e744951397"
     }
   },
   "_boxMenu": {
@@ -101,18 +101,6 @@
       "layout": "center"
     }
   },
-  "_resources": {
-    "_resourcesItems": [],
-    "_filterButtons": {
-      "link": "Links",
-      "media": "Media",
-      "document": "Documents",
-      "all": "All"
-    },
-    "title": "Resources",
-    "_shouldDisableNavigationSideItem": false,
-    "_isEnabled": true
-  },
   "_progress": {
     "_isOnRightSide": true,
     "_progressNavigationItemIcon": "list3",
@@ -124,94 +112,84 @@
     "title": "Progress",
     "_isEnabled": true
   },
-  "_courseNavigation": {
-    "courseNavigationSidebarAriaLabel": "Tab to move through the course items",
-    "courseNavigationAriaLabel": "Select this button to toggle the course navigation sidebar",
-    "_isOnRightSide": false,
-    "icon": "document2",
-    "homeText": "Home",
-    "_isEnabled": true
+  "_courseAttainment": {
+    "completionBody": "<p>Well done! You have completed this course.</p>",
+    "closeWindowText": "Exit course",
+    "_shouldUseCorrectQuestions": false,
+    "_shouldCloseWindowOnCourseAttained": true,
+    "_shouldHideSummaryAndIcon": true,
+    "completionNotifyTitle": "Course attained",
+    "completionTitle": "Course complete",
+    "_attainmentMethod": "components",
+    "_isEnabled": true,
+    "title": " "
   },
-  "_certificate": {
-    "_orientation": "portrait",
-    "_graphic": {
-      "_id": "58b6b30d6faa37e744951475",
-      "_extension": "png",
-      "_type": "image"
+  "_branding": {
+    "copyright": "<p style=\"text-align: center;\"><a href=\"http://www.digitalbusinessacademyuk.com/terms-conditions\" target=\"_blank\">Terms</a>&nbsp; &nbsp;&nbsp;<a href=\"http://www.digitalbusinessacademyuk.com/privacy-policy\" target=\"_blank\">Privacy</a>&nbsp; &nbsp;&nbsp;<a href=\"http://www.digitalbusinessacademyuk.com/faqs\" target=\"_blank\">FAQs</a></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">2017 Tech City UK ©</p>",
+    "_shouldPlaceFooterLogosWithCopyright": true,
+    "_logos": {
+      "_secondaryLogo": {
+        "_isLocatedInFooter": false,
+        "alignment": "right"
+      },
+      "_primaryLogo": {
+        "_isLocatedInFooter": true,
+        "alignment": "center",
+        "src": {
+          "_type": "image",
+          "_extension": "png",
+          "_id": "598c3250abd446e07f9af8c7"
+        }
+      }
     },
-    "_secondaryLogo": {
-      "_id": "58b6b40e6faa37e74495147a",
-      "_extension": "png",
-      "_type": "image"
-    },
-    "_primaryLogo": {
-      "_id": "58b0376a6faa37e7449513a9",
-      "_extension": "png",
-      "_type": "image"
-    },
-    "dateLabel": "Date awarded:",
-    "nameLabel": "Name:",
-    "downloadButtonText": "Download certificate",
-    "notAchievedText": "You have not yet achieved the course certificate",
-    "achievedText": "You have achieved the course certificate, click download certificate",
-    "title": "Certificate of completion: Size up your idea",
-    "_obtainmentMethod": "Course Assessment Passed",
-    "_isComplete": false,
-    "_isEnabled": true
-  },
-  "_bookmarking": {
-    "_notificationCancel": "No",
-    "_notificationConfirm": "Yes",
-    "_notificationBody": "Do you want to continue the course?",
-    "_notificationTitle": "This course is in progress",
     "_isEnabled": true
   },
   "_achievements": {
-    "body": "<p>Welcome to rewards, where you can unlock some of the great goodies DBA has to offer...</p>",
+    "body": "<p style=\"text-align: center;\">Welcome to rewards, where you can unlock some of the great goodies DBA has to offer...</p>",
     "_badges": {
       "_items": [
         {
-          "itemIndex": 1,
-          "_id": "58f78e3316078b376ae9d0a9",
-          "title": "Discount code",
-          "body": "<p>This reward lets you apply for money off at one of our discount partners</p>",
           "_pointsRequired": 30,
+          "body": "<p>This reward lets you apply for money off at one of our discount partners</p>",
+          "title": "Discount code",
+          "_id": "58f78e3316078b376ae9d0a9",
+          "itemIndex": 1,
           "_badgeCompletionType": "points",
           "_graphic": {
             "src": {
-              "_id": "58f78f7316078b376ae9d0aa",
+              "_type": "image",
               "_extension": "png",
-              "_type": "image"
+              "_id": "58f78f7316078b376ae9d0aa"
             }
           }
         },
         {
-          "body": "<p>This reward entitled you to claim your free desk at one of our exclusive working spaces.</p>",
-          "_id": "58b035ec6faa37e7449513a8",
-          "itemIndex": 0,
-          "title": "Free desk space",
           "_pointsRequired": 60,
+          "title": "Free desk space",
+          "itemIndex": 0,
+          "_id": "58b035ec6faa37e7449513a8",
+          "body": "<p>This reward entitled you to claim your free desk at one of our exclusive working spaces.</p>",
           "_badgeCompletionType": "points",
           "_graphic": {
             "src": {
-              "_id": "58f78e0816078b376ae9d0a7",
+              "_type": "image",
               "_extension": "png",
-              "_type": "image"
+              "_id": "58f78e0816078b376ae9d0a7"
             }
           }
         },
         {
-          "body": "<p>This reward gives you a queue jump to interview for a paid position at some of the UKs best tech companies</p>",
-          "itemIndex": 2,
-          "_id": "58f78fa016078b376ae9d0ac",
-          "title": "Internship fast track",
           "_pointsRequired": 100,
+          "title": "Internship fast track",
+          "_id": "58f78fa016078b376ae9d0ac",
+          "itemIndex": 2,
+          "body": "<p>This reward gives you a queue jump to interview for a paid position at some of the UKs best tech companies</p>",
           "_badgeCompletionType": "points",
           "_graphic": {
             "src": {
-              "_id": "58f78fbd16078b376ae9d0ad",
+              "_type": "image",
               "_extension": "png",
-              "_type": "image"
+              "_id": "58f78fbd16078b376ae9d0ad"
             }
           }
         }
@@ -219,7 +197,7 @@
       "badgeNotifyTitle": "You've unlocked a new reward!",
       "badgesLabel": "Badges",
       "badgesName": "Rewards",
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "_stars": {
       "starsMissedLabel": "Stars missed",
@@ -235,12 +213,12 @@
       "_isEnabled": false
     },
     "_points": {
-      "_defaultPoints": 10,
-      "pointsLabel": "points",
+      "_defaultPoints": 50,
+      "pointsLabel": "Points",
       "pointsName": "Points",
       "_isEnabled": true
     },
-    "title": "Rewards",
+    "title": "Reward Points",
     "_isEnabled": true
   },
   "_pageBackgroundImage": {
@@ -252,8 +230,8 @@
     },
     "_backgroundImage": {
       "_repeat": false,
-      "_fixed": false,
-      "_position": "center",
+      "_fixed": true,
+      "_position": "top",
       "_size": "cover",
       "src": {
         "_id": "592e999902778c512a0afb9b",
@@ -279,8 +257,8 @@
   },
   "_globals": {
     "_questionAttempts": {
-      "_attempts": 1,
-      "_shouldUseGlobalAttempts": false
+      "_attempts": 10,
+      "_shouldUseGlobalAttempts": true
     },
     "_feedbackText": {
       "incorrectFinalFeedback": "Incorrect",
@@ -341,21 +319,39 @@
     "_shouldHideMenu": true
   },
   "_version": {
-    "versionTitle": "aArdent Edits",
+    "versionTitle": "UCL Edits",
     "_isLanguageVersion": false,
     "_isVersion": false
   },
   "_reviews": {
-    "_reviews": [],
-    "_isUnderReview": false
+    "_reviews": [
+      {
+        "_id": "598331ccae79a0431640a53d",
+        "title": "Heika Access",
+        "_createdBy": "5897aece50d3bf600d233ab1",
+        "_reviewers": [
+          {
+            "_id": "598331ccae79a0431640a53e",
+            "_reviewer": "58ad716650d3bf600d233adb",
+            "reviewFeedback": "",
+            "_hasPassed": true,
+            "_status": "notStarted"
+          }
+        ],
+        "_hasPrivateAnnotations": false,
+        "_isActive": true,
+        "_createdAt": "Thu Aug 03 2017 14:23:08 GMT+0000 (UTC)"
+      }
+    ],
+    "_isUnderReview": true
   },
   "_categoryGroups": [],
   "_categories": [],
   "_isEditLocked": false,
   "_displayTitleSettings": {
-    "_textAlign": "center",
-    "_fontSize": ""
+    "_fontSize": "",
+    "_textAlign": "center"
   },
-  "title": "1. Would my idea make a good business? master aArdent Edits",
+  "title": "1.Speak the language of entrepreneurs master UCL Edits",
   "_type": "course"
 }
