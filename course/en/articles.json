@@ -73,10 +73,82 @@
     "_courseOrder": "0-0"
   },
   {
+    "_id": "598db9729d22de692fc7d14e",
+    "_sortOrder": 1,
+    "_parentId": "598b06d32cb2f32b65813d9d",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "5923fe0802778c512a0af1c0",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Founder stories: Sellplex",
+    "_type": "article",
+    "_courseOrder": "0-1"
+  },
+  {
     "_id": "598b06d32cb2f32b65813d9e",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "_parentId": "598b06d32cb2f32b65813d9d",
-    "_sortOrder": 1,
+    "_sortOrder": 2,
     "__v": 0,
     "_refId": "58b03f6a6faa37e7449513ae",
     "_progress": {
@@ -148,11 +220,11 @@
     "_classes": "none",
     "title": "Do I have what it takes?",
     "_type": "article",
-    "_courseOrder": "0-1"
+    "_courseOrder": "0-2"
   },
   {
     "_id": "598b06d32cb2f32b65813da1",
-    "_sortOrder": 2,
+    "_sortOrder": 3,
     "_parentId": "598b06d32cb2f32b65813d9d",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -220,11 +292,11 @@
     "_classes": "none",
     "title": "Give your idea a reality check",
     "_type": "article",
-    "_courseOrder": "0-2"
+    "_courseOrder": "0-3"
   },
   {
     "_id": "598b06d32cb2f32b65813da5",
-    "_sortOrder": 3,
+    "_sortOrder": 4,
     "_parentId": "598b06d32cb2f32b65813d9d",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -292,11 +364,11 @@
     "_classes": "none",
     "title": "Make sure your idea is unique",
     "_type": "article",
-    "_courseOrder": "0-3"
+    "_courseOrder": "0-4"
   },
   {
-    "_id": "598db9729d22de692fc7d14e",
-    "_sortOrder": 4,
+    "_id": "59959de53c1f9689400bbc2e",
+    "_sortOrder": 5,
     "_parentId": "598b06d32cb2f32b65813d9d",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -364,11 +436,11 @@
     "_classes": "none",
     "title": "Founder stories: Sellplex",
     "_type": "article",
-    "_courseOrder": "0-4"
+    "_courseOrder": "0-5"
   },
   {
     "_id": "598b06d42cb2f32b65813da9",
-    "_sortOrder": 5,
+    "_sortOrder": 6,
     "_parentId": "598b06d32cb2f32b65813d9d",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -436,11 +508,11 @@
     "_classes": "article-style-7",
     "title": "Is this business a good fit for you?",
     "_type": "article",
-    "_courseOrder": "0-5"
+    "_courseOrder": "0-6"
   },
   {
     "_id": "598b06d42cb2f32b65813dac",
-    "_sortOrder": 6,
+    "_sortOrder": 7,
     "_parentId": "598b06d32cb2f32b65813d9d",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -514,11 +586,11 @@
     "_classes": "none",
     "title": "Get the timing right",
     "_type": "article",
-    "_courseOrder": "0-6"
+    "_courseOrder": "0-7"
   },
   {
     "_id": "598b06d42cb2f32b65813dc1",
-    "_sortOrder": 7,
+    "_sortOrder": 8,
     "_parentId": "598b06d32cb2f32b65813d9d",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -583,20 +655,20 @@
       "_position": "center",
       "_size": "cover",
       "src": {
-        "_type": "image",
+        "_id": "5950dcd06bf9a4dd791814e7",
         "_extension": "jpeg",
-        "_id": "5950dcd06bf9a4dd791814e7"
+        "_type": "image"
       }
     },
     "_hasScrollActionButton": false,
-    "_classes": "none",
+    "_classes": "article-style-8",
     "title": "Ready to become an entrepreneur?",
     "_type": "article",
-    "_courseOrder": "0-7"
+    "_courseOrder": "0-8"
   },
   {
     "_id": "598b06d42cb2f32b65813db0",
-    "_sortOrder": 8,
+    "_sortOrder": 9,
     "_parentId": "598b06d32cb2f32b65813d9d",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -664,11 +736,11 @@
     "_classes": "none",
     "title": "Take a reality check",
     "_type": "article",
-    "_courseOrder": "0-8"
+    "_courseOrder": "0-9"
   },
   {
     "_id": "598b06d42cb2f32b65813db4",
-    "_sortOrder": 9,
+    "_sortOrder": 10,
     "_parentId": "598b06d32cb2f32b65813d9d",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -736,11 +808,11 @@
     "_classes": "none",
     "title": "Nail that value proposition",
     "_type": "article",
-    "_courseOrder": "0-9"
+    "_courseOrder": "0-10"
   },
   {
     "_id": "598b06d42cb2f32b65813db8",
-    "_sortOrder": 10,
+    "_sortOrder": 11,
     "_parentId": "598b06d32cb2f32b65813d9d",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -808,16 +880,16 @@
     "_classes": "none",
     "title": "Take a look in the mirror",
     "_type": "article",
-    "_courseOrder": "0-10"
+    "_courseOrder": "0-11"
   },
   {
     "_id": "598b06d42cb2f32b65813dbe",
-    "_sortOrder": 11,
+    "_sortOrder": 12,
     "_parentId": "598b06d32cb2f32b65813d9d",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
     "_refId": "58b58ddc6faa37e74495145b",
-    "displayTitle": "How entrepreneurs define themselves. Let's wrap it up",
+    "displayTitle": "Do you have the 'right stuff' to be an entrepreneur?. Let's wrap it up",
     "_progress": {
       "_isEnabled": true
     },
@@ -879,9 +951,9 @@
     },
     "_hasScrollActionButton": false,
     "_classes": "article-style-4",
-    "title": "How entrepreneurs define themselves. Let's wrap it up",
+    "title": "Do you have the 'right stuff' to be an entrepreneur?. Let's wrap it up",
     "_type": "article",
-    "_courseOrder": "0-11"
+    "_courseOrder": "0-12"
   },
   {
     "_id": "598b06d52cb2f32b65813e51",
@@ -1179,8 +1251,80 @@
     "_courseOrder": "1-3"
   },
   {
-    "_id": "598b06d52cb2f32b65813e3f",
+    "_id": "5995b6343c1f9689400bbc4b",
     "_sortOrder": 4,
+    "_parentId": "598b06d52cb2f32b65813e33",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "58c92c8013b751d90c4ed430",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Making sure your idea is a good fit",
+    "_type": "article",
+    "_courseOrder": "1-4"
+  },
+  {
+    "_id": "598b06d52cb2f32b65813e3f",
+    "_sortOrder": 5,
     "_parentId": "598b06d52cb2f32b65813e33",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -1249,172 +1393,16 @@
     "_classes": "none",
     "title": "Let's hear from some founders",
     "_type": "article",
-    "_courseOrder": "1-4"
-  },
-  {
-    "_id": "598b06d52cb2f32b65813e42",
-    "_sortOrder": 5,
-    "_parentId": "598b06d52cb2f32b65813e33",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "__v": 0,
-    "_refId": "58b7035a6faa37e7449515b1",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200,
-            "src": {
-              "_size": "large",
-              "_type": "image",
-              "_extension": "jpeg",
-              "_id": "58b6b5df6faa37e74495147c"
-            }
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "article-style-7",
-    "title": "How to refine your ideas",
-    "_type": "article",
     "_courseOrder": "1-5"
   },
   {
-    "_id": "598b06d52cb2f32b65813e3b",
+    "_id": "598b06d62cb2f32b65813e5b",
     "_sortOrder": 6,
     "_parentId": "598b06d52cb2f32b65813e33",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
-    "_refId": "58b7035a6faa37e7449515af",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200,
-            "src": {
-              "_size": "large",
-              "_type": "image",
-              "_extension": "png",
-              "_id": "58cac38513b751d90c4ed4a0"
-            }
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Testing your ideas in the real world",
-    "_type": "article",
-    "_courseOrder": "1-6"
-  },
-  {
-    "_id": "598b06d62cb2f32b65813e5b",
-    "_sortOrder": 7,
-    "_parentId": "598b06d52cb2f32b65813e33",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "__v": 0,
     "_refId": "593920eb08a265827f217b48",
-    "displayTitle": "Got a great idea to test?",
+    "displayTitle": "Got a great idea?",
     "_progress": {
       "_isEnabled": false
     },
@@ -1474,20 +1462,20 @@
       "_position": "center",
       "_size": "cover",
       "src": {
-        "_type": "image",
+        "_id": "5950dcd06bf9a4dd791814e7",
         "_extension": "jpeg",
-        "_id": "5950dcd06bf9a4dd791814e7"
+        "_type": "image"
       }
     },
     "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Got a great idea to test?",
+    "_classes": "article-style-8",
+    "title": "Got a great ideat?",
     "_type": "article",
-    "_courseOrder": "1-7"
+    "_courseOrder": "1-6"
   },
   {
     "_id": "598b06d52cb2f32b65813e45",
-    "_sortOrder": 8,
+    "_sortOrder": 7,
     "_parentId": "598b06d52cb2f32b65813e33",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -1556,11 +1544,11 @@
     "_classes": "none",
     "title": "Find ideas you love",
     "_type": "article",
-    "_courseOrder": "1-8"
+    "_courseOrder": "1-7"
   },
   {
     "_id": "598b06d52cb2f32b65813e49",
-    "_sortOrder": 9,
+    "_sortOrder": 8,
     "_parentId": "598b06d52cb2f32b65813e33",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -1627,13 +1615,13 @@
     },
     "_hasScrollActionButton": false,
     "_classes": "none",
-    "title": "Refine your ideas",
+    "title": "Asking yourself tough questions",
     "_type": "article",
-    "_courseOrder": "1-9"
+    "_courseOrder": "1-8"
   },
   {
     "_id": "598b06d52cb2f32b65813e4d",
-    "_sortOrder": 10,
+    "_sortOrder": 9,
     "_parentId": "598b06d52cb2f32b65813e33",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -1700,13 +1688,13 @@
     },
     "_hasScrollActionButton": false,
     "_classes": "none",
-    "title": "Test out new ideas",
+    "title": "BioBean",
     "_type": "article",
-    "_courseOrder": "1-10"
+    "_courseOrder": "1-9"
   },
   {
     "_id": "598b06d52cb2f32b65813e54",
-    "_sortOrder": 11,
+    "_sortOrder": 10,
     "_parentId": "598b06d52cb2f32b65813e33",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -1775,7 +1763,7 @@
     "_classes": "article-style-4",
     "title": "How entrepreneurs think up ideas. Let's wrap it up",
     "_type": "article",
-    "_courseOrder": "1-11"
+    "_courseOrder": "1-10"
   },
   {
     "_id": "598b06d42cb2f32b65813dde",
@@ -1851,13 +1839,12 @@
     "_courseOrder": "2-0"
   },
   {
-    "_id": "598b06d42cb2f32b65813dc4",
+    "_id": "5995a6a73c1f9689400bbc40",
     "_sortOrder": 1,
     "_parentId": "598b06d42cb2f32b65813dc3",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
-    "_refId": "58b703116faa37e7449514b6",
-    "displayTitle": "",
+    "_refId": "58b7035a6faa37e7449515b1",
     "_progress": {
       "_isEnabled": true
     },
@@ -1888,7 +1875,13 @@
           },
           "_large": {
             "_shouldRepeat": false,
-            "_height": 200
+            "_height": 200,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "58b6b5df6faa37e74495147c"
+            }
           }
         },
         "_isEnabled": false
@@ -1918,234 +1911,14 @@
       "_size": "initial"
     },
     "_hasScrollActionButton": false,
-    "_classes": "none",
-    "_displayTitleSettings": {
-      "_fontSize": "",
-      "_textAlign": "left"
-    },
-    "title": "Turn your idea into a business model",
+    "_classes": "article-style-7",
+    "title": "How to refine your ideas",
     "_type": "article",
     "_courseOrder": "2-1"
   },
   {
-    "_id": "598b06d42cb2f32b65813dc8",
-    "_sortOrder": 2,
-    "_parentId": "598b06d42cb2f32b65813dc3",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "__v": 0,
-    "_refId": "58b703116faa37e7449514b7",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Organise your thoughts",
-    "_type": "article",
-    "_courseOrder": "2-2"
-  },
-  {
-    "_id": "598b06d42cb2f32b65813dcc",
-    "_sortOrder": 3,
-    "_parentId": "598b06d42cb2f32b65813dc3",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "__v": 0,
-    "_refId": "58b703116faa37e7449514b8",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Explore the Canvas",
-    "_type": "article",
-    "_courseOrder": "2-3"
-  },
-  {
-    "_id": "598dd1ac9d22de692fc7d152",
-    "_sortOrder": 4,
-    "_parentId": "598b06d42cb2f32b65813dc3",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "__v": 0,
-    "_refId": "5923fe0802778c512a0af1c0",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Founder stories: Sellplex",
-    "_type": "article",
-    "_courseOrder": "2-4"
-  },
-  {
     "_id": "598b06d42cb2f32b65813dcf",
-    "_sortOrder": 5,
+    "_sortOrder": 2,
     "_parentId": "598b06d42cb2f32b65813dc3",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -2219,11 +1992,382 @@
     "_classes": "article-style-9",
     "title": "Nail your customer profiles",
     "_type": "article",
+    "_courseOrder": "2-2"
+  },
+  {
+    "_id": "5995a6893c1f9689400bbc3c",
+    "_sortOrder": 3,
+    "_parentId": "598b06d42cb2f32b65813dc3",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "58b7035a6faa37e7449515af",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "png",
+              "_id": "58cac38513b751d90c4ed4a0"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Testing your ideas in the real world",
+    "_type": "article",
+    "_courseOrder": "2-3"
+  },
+  {
+    "_id": "598b06d42cb2f32b65813dc4",
+    "_sortOrder": 4,
+    "_parentId": "598b06d42cb2f32b65813dc3",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "58b703116faa37e7449514b6",
+    "displayTitle": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "_displayTitleSettings": {
+      "_fontSize": "",
+      "_textAlign": "left"
+    },
+    "title": "Turn your idea into a business model",
+    "_type": "article",
+    "_courseOrder": "2-4"
+  },
+  {
+    "_id": "598b06d42cb2f32b65813dc8",
+    "_sortOrder": 5,
+    "_parentId": "598b06d42cb2f32b65813dc3",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "58b703116faa37e7449514b7",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Organise your thoughts",
+    "_type": "article",
     "_courseOrder": "2-5"
   },
   {
-    "_id": "598b06d42cb2f32b65813de4",
+    "_id": "598b06d42cb2f32b65813dcc",
     "_sortOrder": 6,
+    "_parentId": "598b06d42cb2f32b65813dc3",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "58b703116faa37e7449514b8",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Explore the Canvas",
+    "_type": "article",
+    "_courseOrder": "2-6"
+  },
+  {
+    "_id": "598dd1ac9d22de692fc7d152",
+    "_sortOrder": 7,
+    "_parentId": "598b06d42cb2f32b65813dc3",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "5923fe0802778c512a0af1c0",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Founder stories: Sellplex",
+    "_type": "article",
+    "_courseOrder": "2-7"
+  },
+  {
+    "_id": "598b06d42cb2f32b65813de4",
+    "_sortOrder": 8,
     "_parentId": "598b06d42cb2f32b65813dc3",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -2297,16 +2441,16 @@
     "_classes": "none",
     "title": "Hone your business model skills",
     "_type": "article",
-    "_courseOrder": "2-6"
+    "_courseOrder": "2-8"
   },
   {
     "_id": "598b06d42cb2f32b65813de8",
-    "_sortOrder": 7,
+    "_sortOrder": 9,
     "_parentId": "598b06d42cb2f32b65813dc3",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
     "_refId": "593920eb08a265827f217b48",
-    "displayTitle": "Ready to convert your idea into a business?",
+    "displayTitle": "Ready to refine and test your ideas?",
     "_progress": {
       "_isEnabled": false
     },
@@ -2366,20 +2510,93 @@
       "_position": "center",
       "_size": "cover",
       "src": {
-        "_type": "image",
+        "_id": "5950dcd06bf9a4dd791814e7",
         "_extension": "jpeg",
-        "_id": "5950dcd06bf9a4dd791814e7"
+        "_type": "image"
       }
     },
     "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Ready to convert your idea into a business?",
+    "_classes": "article-style-8",
+    "title": "Ready to refine and test your ideas?",
     "_type": "article",
-    "_courseOrder": "2-7"
+    "_courseOrder": "2-9"
+  },
+  {
+    "_id": "5995a6c23c1f9689400bbc43",
+    "_sortOrder": 10,
+    "_parentId": "598b06d42cb2f32b65813dc3",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "58b7035a6faa37e7449515b3",
+    "displayTitle": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Refine your ideas",
+    "_type": "article",
+    "_courseOrder": "2-10"
   },
   {
     "_id": "598b06d42cb2f32b65813dd2",
-    "_sortOrder": 8,
+    "_sortOrder": 11,
     "_parentId": "598b06d42cb2f32b65813dc3",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -2451,87 +2668,11 @@
     },
     "title": "Got a grip on canvas?",
     "_type": "article",
-    "_courseOrder": "2-8"
-  },
-  {
-    "_id": "598b06d42cb2f32b65813dd7",
-    "_sortOrder": 9,
-    "_parentId": "598b06d42cb2f32b65813dc3",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "__v": 0,
-    "_refId": "58b703116faa37e7449514bb",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "_displayTitleSettings": {
-      "_fontSize": "",
-      "_textAlign": "left"
-    },
-    "title": "Get your customer segments right",
-    "_type": "article",
-    "_courseOrder": "2-9"
+    "_courseOrder": "2-11"
   },
   {
     "_id": "598b06d42cb2f32b65813dda",
-    "_sortOrder": 10,
+    "_sortOrder": 12,
     "_parentId": "598b06d42cb2f32b65813dc3",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -2599,16 +2740,16 @@
     "_classes": "none",
     "title": "Creation question",
     "_type": "article",
-    "_courseOrder": "2-10"
+    "_courseOrder": "2-12"
   },
   {
     "_id": "598b06d42cb2f32b65813de1",
-    "_sortOrder": 11,
+    "_sortOrder": 13,
     "_parentId": "598b06d42cb2f32b65813dc3",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
     "_refId": "58b703116faa37e7449514be",
-    "displayTitle": "How entrepreneurs test their ideas. Let's wrap it up",
+    "displayTitle": "How entrepreneurs test and refine their ideas. Let's wrap it up",
     "_progress": {
       "_isEnabled": true
     },
@@ -2670,9 +2811,9 @@
     },
     "_hasScrollActionButton": false,
     "_classes": "article-style-4",
-    "title": "How entrepreneurs test their ideas. Let's wrap it up",
+    "title": "How entrepreneurs test and refine their ideas. Let's wrap it up",
     "_type": "article",
-    "_courseOrder": "2-11"
+    "_courseOrder": "2-13"
   },
   {
     "_id": "598b06d52cb2f32b65813e27",
@@ -2820,8 +2961,80 @@
     "_courseOrder": "3-1"
   },
   {
-    "_id": "598b06d52cb2f32b65813e0f",
+    "_id": "598dd2999d22de692fc7d156",
     "_sortOrder": 2,
+    "_parentId": "598b06d52cb2f32b65813e0e",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "5923fe0802778c512a0af1c0",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Founder stories: Sellplex",
+    "_type": "article",
+    "_courseOrder": "3-2"
+  },
+  {
+    "_id": "598b06d52cb2f32b65813e0f",
+    "_sortOrder": 3,
     "_parentId": "598b06d52cb2f32b65813e0e",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -2889,11 +3102,11 @@
     "_classes": "article-style-7",
     "title": "Ask the right questions",
     "_type": "article",
-    "_courseOrder": "3-2"
+    "_courseOrder": "3-3"
   },
   {
     "_id": "598b06d52cb2f32b65813e2d",
-    "_sortOrder": 3,
+    "_sortOrder": 4,
     "_parentId": "598b06d52cb2f32b65813e0e",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -2961,11 +3174,11 @@
     "_classes": "none",
     "title": "Who should I be talking to?",
     "_type": "article",
-    "_courseOrder": "3-3"
+    "_courseOrder": "3-4"
   },
   {
     "_id": "598b06d52cb2f32b65813e16",
-    "_sortOrder": 4,
+    "_sortOrder": 5,
     "_parentId": "598b06d52cb2f32b65813e0e",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -3033,11 +3246,11 @@
     "_classes": "none",
     "title": "Find your customers",
     "_type": "article",
-    "_courseOrder": "3-4"
+    "_courseOrder": "3-5"
   },
   {
     "_id": "598b06d52cb2f32b65813e19",
-    "_sortOrder": 5,
+    "_sortOrder": 6,
     "_parentId": "598b06d52cb2f32b65813e0e",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -3111,11 +3324,11 @@
     "_classes": "none",
     "title": "Act on your feedback",
     "_type": "article",
-    "_courseOrder": "3-5"
+    "_courseOrder": "3-6"
   },
   {
-    "_id": "598dd2999d22de692fc7d156",
-    "_sortOrder": 6,
+    "_id": "5995a0ab3c1f9689400bbc32",
+    "_sortOrder": 7,
     "_parentId": "598b06d52cb2f32b65813e0e",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -3183,11 +3396,11 @@
     "_classes": "none",
     "title": "Founder stories: Sellplex",
     "_type": "article",
-    "_courseOrder": "3-6"
+    "_courseOrder": "3-7"
   },
   {
     "_id": "598b06d52cb2f32b65813e31",
-    "_sortOrder": 7,
+    "_sortOrder": 8,
     "_parentId": "598b06d52cb2f32b65813e0e",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -3252,20 +3465,20 @@
       "_position": "center",
       "_size": "cover",
       "src": {
-        "_type": "image",
+        "_id": "5950dcd06bf9a4dd791814e7",
         "_extension": "jpeg",
-        "_id": "5950dcd06bf9a4dd791814e7"
+        "_type": "image"
       }
     },
     "_hasScrollActionButton": false,
-    "_classes": "none",
+    "_classes": "article-style-8",
     "title": "Ready to talk to your customers?",
     "_type": "article",
-    "_courseOrder": "3-7"
+    "_courseOrder": "3-8"
   },
   {
     "_id": "598b06d52cb2f32b65813e1d",
-    "_sortOrder": 8,
+    "_sortOrder": 9,
     "_parentId": "598b06d52cb2f32b65813e0e",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -3333,11 +3546,11 @@
     "_classes": "none",
     "title": "The Mom Test",
     "_type": "article",
-    "_courseOrder": "3-8"
+    "_courseOrder": "3-9"
   },
   {
     "_id": "598b06d52cb2f32b65813e20",
-    "_sortOrder": 9,
+    "_sortOrder": 10,
     "_parentId": "598b06d52cb2f32b65813e0e",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -3405,11 +3618,11 @@
     "_classes": "none",
     "title": "Find your customers",
     "_type": "article",
-    "_courseOrder": "3-9"
+    "_courseOrder": "3-10"
   },
   {
     "_id": "598b06d52cb2f32b65813e24",
-    "_sortOrder": 10,
+    "_sortOrder": 11,
     "_parentId": "598b06d52cb2f32b65813e0e",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -3477,11 +3690,11 @@
     "_classes": "none",
     "title": "Make feedback count",
     "_type": "article",
-    "_courseOrder": "3-10"
+    "_courseOrder": "3-11"
   },
   {
     "_id": "598b06d52cb2f32b65813e2a",
-    "_sortOrder": 11,
+    "_sortOrder": 12,
     "_parentId": "598b06d52cb2f32b65813e0e",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -3554,1061 +3767,7 @@
     },
     "title": "How entrepreneurs talk to their customers. Let's wrap it up ",
     "_type": "article",
-    "_courseOrder": "3-11"
-  },
-  {
-    "_id": "598b06d62cb2f32b65813e7b",
-    "_sortOrder": 0,
-    "_parentId": "598b06d62cb2f32b65813e5d",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "__v": 0,
-    "displayTitle": "Get a handle on your market",
-    "_refId": "58b703666faa37e7449515f3",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "article-style-5",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
-    "title": "Look for the competition",
-    "_type": "article",
-    "_courseOrder": "4-0"
-  },
-  {
-    "_id": "598b06d62cb2f32b65813e5e",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "_parentId": "598b06d62cb2f32b65813e5d",
-    "_sortOrder": 1,
-    "__v": 0,
-    "_refId": "58b703666faa37e7449515eb",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200,
-            "src": {
-              "_id": "58ad7fa450d3bf600d233ae7",
-              "_extension": "png",
-              "_type": "image",
-              "_size": "large"
-            }
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Who else has similar ideas?",
-    "_type": "article",
-    "_courseOrder": "4-1"
-  },
-  {
-    "_id": "598b06d62cb2f32b65813e61",
-    "_sortOrder": 2,
-    "_parentId": "598b06d62cb2f32b65813e5d",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "__v": 0,
-    "_refId": "58b703666faa37e7449515ec",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Understand your market",
-    "_type": "article",
-    "_courseOrder": "4-2"
-  },
-  {
-    "_id": "598b06d62cb2f32b65813e65",
-    "_sortOrder": 3,
-    "_parentId": "598b06d62cb2f32b65813e5d",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "__v": 0,
-    "_refId": "58b703666faa37e7449515ed",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Think through your market",
-    "_type": "article",
-    "_courseOrder": "4-3"
-  },
-  {
-    "_id": "598b06d62cb2f32b65813e69",
-    "_sortOrder": 4,
-    "_parentId": "598b06d62cb2f32b65813e5d",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "__v": 0,
-    "_refId": "58b703666faa37e7449515ee",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "article-style-7",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
-    "title": "Examine your market",
-    "_type": "article",
-    "_courseOrder": "4-4"
-  },
-  {
-    "_id": "598b06d62cb2f32b65813e6c",
-    "_sortOrder": 5,
-    "_parentId": "598b06d62cb2f32b65813e5d",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "__v": 0,
-    "_refId": "58b703666faa37e7449515ef",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200,
-            "src": {
-              "_id": "58b6b5df6faa37e74495147c",
-              "_extension": "jpeg",
-              "_type": "image",
-              "_size": "large"
-            }
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Look to the future",
-    "_type": "article",
-    "_courseOrder": "4-5"
-  },
-  {
-    "_id": "598b06d62cb2f32b65813e81",
-    "_sortOrder": 6,
-    "_parentId": "598b06d62cb2f32b65813e5d",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "__v": 0,
-    "_refId": "58bff30913b751d90c4ed3ad",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
-    "title": "Assess the wider world",
-    "_type": "article",
-    "_courseOrder": "4-6"
-  },
-  {
-    "_id": "598b06d62cb2f32b65813e84",
-    "_sortOrder": 7,
-    "_parentId": "598b06d62cb2f32b65813e5d",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "__v": 0,
-    "_refId": "58bff31a13b751d90c4ed3af",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Identify your competitive edge",
-    "_type": "article",
-    "_courseOrder": "4-7"
-  },
-  {
-    "_id": "598b06d62cb2f32b65813e88",
-    "_sortOrder": 8,
-    "_parentId": "598b06d62cb2f32b65813e5d",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "__v": 0,
-    "_refId": "58bff37113b751d90c4ed3b3",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200,
-            "src": {
-              "_id": "58cacf9613b751d90c4ed4b7",
-              "_extension": "png",
-              "_type": "image",
-              "_size": "large"
-            }
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "article-style-7",
-    "_displayTitleSettings": {
-      "_textAlign": "left",
-      "_fontSize": ""
-    },
-    "title": "Build a winning team",
-    "_type": "article",
-    "_courseOrder": "4-8"
-  },
-  {
-    "_id": "598b06d62cb2f32b65813e8b",
-    "_sortOrder": 9,
-    "_parentId": "598b06d62cb2f32b65813e5d",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "__v": 0,
-    "_refId": "593920eb08a265827f217b48",
-    "displayTitle": "Got a handle on your market?",
-    "_progress": {
-      "_isEnabled": false
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "cover",
-      "src": {
-        "_type": "image",
-        "_extension": "jpeg",
-        "_id": "5950dcd06bf9a4dd791814e7"
-      }
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Got a handle on your market?",
-    "_type": "article",
-    "_courseOrder": "4-9"
-  },
-  {
-    "_id": "598b06d62cb2f32b65813e6f",
-    "_sortOrder": 10,
-    "_parentId": "598b06d62cb2f32b65813e5d",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "__v": 0,
-    "_refId": "58b703666faa37e7449515f0",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Measure up the market",
-    "_type": "article",
-    "_courseOrder": "4-10"
-  },
-  {
-    "_id": "598b06d62cb2f32b65813e73",
-    "_sortOrder": 11,
-    "_parentId": "598b06d62cb2f32b65813e5d",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "__v": 0,
-    "_refId": "58b703666faa37e7449515f1",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Think about your future strategy",
-    "_type": "article",
-    "_courseOrder": "4-11"
-  },
-  {
-    "_id": "598b06d62cb2f32b65813e77",
-    "_sortOrder": 12,
-    "_parentId": "598b06d62cb2f32b65813e5d",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "__v": 0,
-    "_refId": "58b703666faa37e7449515f2",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "_displayTitleSettings": {
-      "_fontSize": "",
-      "_textAlign": "left"
-    },
-    "title": "Assess the strengths of your team",
-    "_type": "article",
-    "_courseOrder": "4-12"
-  },
-  {
-    "_id": "598b06d62cb2f32b65813e7e",
-    "_sortOrder": 13,
-    "_parentId": "598b06d62cb2f32b65813e5d",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "__v": 0,
-    "_refId": "58b703666faa37e7449515f4",
-    "displayTitle": "How entrepreneurs assess the competition. Let's wrap it up",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "article-style-4",
-    "title": "How entrepreneurs assess the competition. Let's wrap it up",
-    "_type": "article",
-    "_courseOrder": "4-13"
+    "_courseOrder": "3-12"
   },
   {
     "_id": "598b06d52cb2f32b65813e06",
@@ -4681,7 +3840,7 @@
     "_classes": "article-style-5",
     "title": "Develop your products",
     "_type": "article",
-    "_courseOrder": "5-0"
+    "_courseOrder": "4-0"
   },
   {
     "_id": "598b06d42cb2f32b65813dee",
@@ -4753,83 +3912,11 @@
     "_classes": "none",
     "title": "What is The Lean Startup?",
     "_type": "article",
-    "_courseOrder": "5-1"
-  },
-  {
-    "_id": "598b06d42cb2f32b65813df2",
-    "_sortOrder": 2,
-    "_parentId": "598b06d42cb2f32b65813dea",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "__v": 0,
-    "_refId": "58b703456faa37e744951534",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "All about Lean Startup ",
-    "_type": "article",
-    "_courseOrder": "5-2"
+    "_courseOrder": "4-1"
   },
   {
     "_id": "598b06d42cb2f32b65813deb",
-    "_sortOrder": 3,
+    "_sortOrder": 2,
     "_parentId": "598b06d42cb2f32b65813dea",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -4897,11 +3984,11 @@
     "_classes": "article-style-7",
     "title": "Develop your hypothesis",
     "_type": "article",
-    "_courseOrder": "5-3"
+    "_courseOrder": "4-2"
   },
   {
     "_id": "598b06d42cb2f32b65813df6",
-    "_sortOrder": 4,
+    "_sortOrder": 3,
     "_parentId": "598b06d42cb2f32b65813dea",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
@@ -4979,7 +4066,79 @@
     },
     "title": "Set your priorities",
     "_type": "article",
-    "_courseOrder": "5-4"
+    "_courseOrder": "4-3"
+  },
+  {
+    "_id": "5995c0353c1f9689400bbc58",
+    "_sortOrder": 4,
+    "_parentId": "598b06d42cb2f32b65813dea",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "58b703456faa37e744951533",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "What is The Lean Startup?",
+    "_type": "article",
+    "_courseOrder": "4-4"
   },
   {
     "_id": "598b06d52cb2f32b65813e0c",
@@ -5048,16 +4207,16 @@
       "_position": "center",
       "_size": "cover",
       "src": {
-        "_type": "image",
+        "_id": "5950dcd06bf9a4dd791814e7",
         "_extension": "jpeg",
-        "_id": "5950dcd06bf9a4dd791814e7"
+        "_type": "image"
       }
     },
     "_hasScrollActionButton": false,
-    "_classes": "none",
+    "_classes": "article-style-8",
     "title": "Are you a lean startup?",
     "_type": "article",
-    "_courseOrder": "5-5"
+    "_courseOrder": "4-5"
   },
   {
     "_id": "598b06d52cb2f32b65813dfe",
@@ -5129,7 +4288,7 @@
     "_classes": "none",
     "title": "Your assumptions",
     "_type": "article",
-    "_courseOrder": "5-6"
+    "_courseOrder": "4-6"
   },
   {
     "_id": "598b06d42cb2f32b65813dfa",
@@ -5205,7 +4364,7 @@
     },
     "title": "Get Lean!",
     "_type": "article",
-    "_courseOrder": "5-7"
+    "_courseOrder": "4-7"
   },
   {
     "_id": "598b06d52cb2f32b65813e02",
@@ -5281,7 +4440,7 @@
     },
     "title": "Rank your risks",
     "_type": "article",
-    "_courseOrder": "5-8"
+    "_courseOrder": "4-8"
   },
   {
     "_id": "598b06d52cb2f32b65813e09",
@@ -5290,7 +4449,7 @@
     "_courseId": "598b06d32cb2f32b65813d9a",
     "__v": 0,
     "_refId": "58b703456faa37e74495153a",
-    "displayTitle": "How entrepreneurs develop products. Let's wrap it up",
+    "displayTitle": "How entrepreneurs move from ideas to action. Let's wrap it up",
     "_progress": {
       "_isEnabled": true
     },
@@ -5356,8 +4515,1062 @@
       "_textAlign": "left",
       "_fontSize": ""
     },
-    "title": "How entrepreneurs develop products. Let's wrap it up",
+    "title": "How entrepreneurs move from ideas to action. Let's wrap it up",
+    "_type": "article",
+    "_courseOrder": "4-9"
+  },
+  {
+    "_id": "598b06d62cb2f32b65813e7b",
+    "_sortOrder": 0,
+    "_parentId": "598b06d62cb2f32b65813e5d",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "displayTitle": "Get a handle on your market",
+    "_refId": "58b703666faa37e7449515f3",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-5",
+    "_displayTitleSettings": {
+      "_textAlign": "left",
+      "_fontSize": ""
+    },
+    "title": "Look for the competition",
+    "_type": "article",
+    "_courseOrder": "5-0"
+  },
+  {
+    "_id": "598b06d62cb2f32b65813e5e",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "_parentId": "598b06d62cb2f32b65813e5d",
+    "_sortOrder": 1,
+    "__v": 0,
+    "_refId": "58b703666faa37e7449515eb",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_id": "58ad7fa450d3bf600d233ae7",
+              "_extension": "png",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Who else has similar ideas?",
+    "_type": "article",
+    "_courseOrder": "5-1"
+  },
+  {
+    "_id": "598b06d62cb2f32b65813e61",
+    "_sortOrder": 2,
+    "_parentId": "598b06d62cb2f32b65813e5d",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "58b703666faa37e7449515ec",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Understand your market",
+    "_type": "article",
+    "_courseOrder": "5-2"
+  },
+  {
+    "_id": "598b06d62cb2f32b65813e65",
+    "_sortOrder": 3,
+    "_parentId": "598b06d62cb2f32b65813e5d",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "58b703666faa37e7449515ed",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Think through your market",
+    "_type": "article",
+    "_courseOrder": "5-3"
+  },
+  {
+    "_id": "598b06d62cb2f32b65813e69",
+    "_sortOrder": 4,
+    "_parentId": "598b06d62cb2f32b65813e5d",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "58b703666faa37e7449515ee",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-7",
+    "_displayTitleSettings": {
+      "_textAlign": "left",
+      "_fontSize": ""
+    },
+    "title": "Examine your market",
+    "_type": "article",
+    "_courseOrder": "5-4"
+  },
+  {
+    "_id": "598b06d62cb2f32b65813e81",
+    "_sortOrder": 5,
+    "_parentId": "598b06d62cb2f32b65813e5d",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "58bff30913b751d90c4ed3ad",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "_displayTitleSettings": {
+      "_textAlign": "left",
+      "_fontSize": ""
+    },
+    "title": "Assess the wider world",
+    "_type": "article",
+    "_courseOrder": "5-5"
+  },
+  {
+    "_id": "598b06d62cb2f32b65813e84",
+    "_sortOrder": 6,
+    "_parentId": "598b06d62cb2f32b65813e5d",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "58bff31a13b751d90c4ed3af",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Identify your competitive edge",
+    "_type": "article",
+    "_courseOrder": "5-6"
+  },
+  {
+    "_id": "598b06d62cb2f32b65813e88",
+    "_sortOrder": 7,
+    "_parentId": "598b06d62cb2f32b65813e5d",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "58bff37113b751d90c4ed3b3",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_id": "58cacf9613b751d90c4ed4b7",
+              "_extension": "png",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-7",
+    "_displayTitleSettings": {
+      "_textAlign": "left",
+      "_fontSize": ""
+    },
+    "title": "Build a winning team",
+    "_type": "article",
+    "_courseOrder": "5-7"
+  },
+  {
+    "_id": "598b06d62cb2f32b65813e6c",
+    "_sortOrder": 8,
+    "_parentId": "598b06d62cb2f32b65813e5d",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "58b703666faa37e7449515ef",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_id": "58b6b5df6faa37e74495147c",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Look to the future",
+    "_type": "article",
+    "_courseOrder": "5-8"
+  },
+  {
+    "_id": "598b06d62cb2f32b65813e8b",
+    "_sortOrder": 9,
+    "_parentId": "598b06d62cb2f32b65813e5d",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "593920eb08a265827f217b48",
+    "displayTitle": "Got a handle on your market?",
+    "_progress": {
+      "_isEnabled": false
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "cover",
+      "src": {
+        "_id": "5950dcd06bf9a4dd791814e7",
+        "_extension": "jpeg",
+        "_type": "image"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-8",
+    "title": "Got a handle on your market?",
     "_type": "article",
     "_courseOrder": "5-9"
+  },
+  {
+    "_id": "598b06d62cb2f32b65813e6f",
+    "_sortOrder": 10,
+    "_parentId": "598b06d62cb2f32b65813e5d",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "58b703666faa37e7449515f0",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Measure up the market",
+    "_type": "article",
+    "_courseOrder": "5-10"
+  },
+  {
+    "_id": "598b06d62cb2f32b65813e77",
+    "_sortOrder": 11,
+    "_parentId": "598b06d62cb2f32b65813e5d",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "58b703666faa37e7449515f2",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "_displayTitleSettings": {
+      "_fontSize": "",
+      "_textAlign": "left"
+    },
+    "title": "Assess the strengths of your team",
+    "_type": "article",
+    "_courseOrder": "5-11"
+  },
+  {
+    "_id": "598b06d62cb2f32b65813e73",
+    "_sortOrder": 12,
+    "_parentId": "598b06d62cb2f32b65813e5d",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "58b703666faa37e7449515f1",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Think about your future strategy",
+    "_type": "article",
+    "_courseOrder": "5-12"
+  },
+  {
+    "_id": "598b06d62cb2f32b65813e7e",
+    "_sortOrder": 13,
+    "_parentId": "598b06d62cb2f32b65813e5d",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "__v": 0,
+    "_refId": "58b703666faa37e7449515f4",
+    "displayTitle": "How entrepreneurs assess the competition. Let's wrap it up",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-4",
+    "title": "How entrepreneurs assess the competition. Let's wrap it up",
+    "_type": "article",
+    "_courseOrder": "5-13"
   }
 ]

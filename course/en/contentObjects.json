@@ -5,7 +5,7 @@
     "_parentId": "598b06d32cb2f32b65813d9a",
     "_sortOrder": 0,
     "__v": 0,
-    "displayTitle": "How entrepreneurs define themselves",
+    "displayTitle": "Do you have the 'right stuff' to be an entrepreneur?",
     "duration": "15 minutes",
     "_refId": "58b03f6a6faa37e7449513ab",
     "_swipeMenu": {
@@ -130,11 +130,7 @@
       "_fixed": true,
       "_position": "top",
       "_size": "cover",
-      "src": {
-        "_type": "image",
-        "_extension": "jpeg",
-        "_id": "592e999902778c512a0afb9b"
-      }
+      "src": null
     },
     "_heroImage": {
       "title": "What makes an entrepreneur?",
@@ -157,7 +153,7 @@
     "_categories": [],
     "durationLabel": "🕜 ",
     "linkText": "Let's go!",
-    "title": "How entrepreneurs define themselves",
+    "title": "Do you have the 'right stuff' to be an entrepreneur?",
     "_type": "page",
     "_courseOrder": "0"
   },
@@ -322,7 +318,7 @@
     "_parentId": "598b06d32cb2f32b65813d9a",
     "_sortOrder": 2,
     "__v": 0,
-    "displayTitle": "How entrepreneurs test their ideas",
+    "displayTitle": "How entrepreneurs test and refine&nbsp;their ideas",
     "duration": "15 minutes",
     "_refId": "58b703116faa37e7449514af",
     "_swipeMenu": {
@@ -459,7 +455,7 @@
     "_categories": [],
     "durationLabel": "🕜 ",
     "linkText": "Let's go!",
-    "title": "How entrepreneurs test their ideas",
+    "title": "How entrepreneurs test and refine their ideas",
     "_type": "page",
     "_courseOrder": "2"
   },
@@ -619,10 +615,165 @@
     "_courseOrder": "3"
   },
   {
-    "_id": "598b06d62cb2f32b65813e5d",
+    "_id": "598b06d42cb2f32b65813dea",
     "_courseId": "598b06d32cb2f32b65813d9a",
     "_parentId": "598b06d32cb2f32b65813d9a",
     "_sortOrder": 4,
+    "__v": 0,
+    "displayTitle": "How entrepreneurs move from ideas to action",
+    "duration": "15 minutes",
+    "_refId": "58b703456faa37e74495152b",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "58b02e8d6faa37e744951399"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View",
+      "src": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b0435a6faa37e7449513e9"
+      }
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b949366faa37e7449516aa"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_fixed": false,
+      "_position": "top",
+      "_size": "contain"
+    },
+    "_heroImage": {
+      "title": "",
+      "_graphic": {
+        "_small": {
+          "src": {
+            "_id": "58b9499c6faa37e7449516af",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_large": {
+          "src": {
+            "_id": "58b9499c6faa37e7449516af",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "title": "How entrepreneurs move from ideas to action",
+    "_type": "page",
+    "_courseOrder": "4"
+  },
+  {
+    "_id": "598b06d62cb2f32b65813e5d",
+    "_courseId": "598b06d32cb2f32b65813d9a",
+    "_parentId": "598b06d32cb2f32b65813d9a",
+    "_sortOrder": 5,
     "__v": 0,
     "displayTitle": "How entrepreneurs assess the competition",
     "duration": "15 minutes",
@@ -770,161 +921,6 @@
     "durationLabel": "🕜 ",
     "linkText": "Let's go!",
     "title": "How entrepreneurs assess the competition",
-    "_type": "page",
-    "_courseOrder": "4"
-  },
-  {
-    "_id": "598b06d42cb2f32b65813dea",
-    "_courseId": "598b06d32cb2f32b65813d9a",
-    "_parentId": "598b06d32cb2f32b65813d9a",
-    "_sortOrder": 5,
-    "__v": 0,
-    "displayTitle": "How entrepreneurs develop products",
-    "duration": "15 minutes",
-    "_refId": "58b703456faa37e74495152b",
-    "_swipeMenu": {
-      "_shouldShowProgressBarsOnMenus": true,
-      "_mobileBackgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_backgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_heroImage": {
-        "_contentWidth": 70,
-        "textAlignment": "left",
-        "layout": "center"
-      },
-      "_shouldShowControlsOnBottom": false,
-      "_shouldDisableItemScaling": false,
-      "_shouldDisableDetailOnHover": false,
-      "_graphic": {
-        "src": {
-          "_size": "small",
-          "_type": "image",
-          "_extension": "jpeg",
-          "_id": "58b02e8d6faa37e744951399"
-        }
-      }
-    },
-    "_standardMenu": {
-      "_shouldShowIconOnMenuItems": true,
-      "_shouldShowProgressBarsOnMenus": true,
-      "_mobileBackgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_backgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_heroImage": {
-        "_contentWidth": 70,
-        "textAlignment": "left",
-        "layout": "center"
-      }
-    },
-    "_mapMenu": {
-      "_position": {
-        "_top": 50,
-        "_left": 50
-      }
-    },
-    "_coverMenu": {
-      "_shouldShowProgressBarsOnMenus": true,
-      "_coverButtonText": "View",
-      "src": {
-        "_size": "large",
-        "_type": "image",
-        "_extension": "png",
-        "_id": "58b0435a6faa37e7449513e9"
-      }
-    },
-    "_boxMenu": {
-      "_shouldShowProgressBarsOnMenus": true,
-      "_mobileBackgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_backgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_heroImage": {
-        "_contentWidth": 70,
-        "textAlignment": "left",
-        "layout": "center"
-      },
-      "src": {
-        "_size": "small",
-        "_type": "image",
-        "_extension": "png",
-        "_id": "58b949366faa37e7449516aa"
-      }
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "contentObject",
-      "_isEnabled": false
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_fixed": false,
-      "_position": "center",
-      "_size": "cover"
-    },
-    "_backgroundImage": {
-      "_repeat": true,
-      "_fixed": false,
-      "_position": "top",
-      "_size": "contain"
-    },
-    "_heroImage": {
-      "title": "",
-      "_graphic": {
-        "_small": {
-          "src": {
-            "_id": "58b9499c6faa37e7449516af",
-            "_extension": "png",
-            "_type": "image",
-            "_size": "small"
-          }
-        },
-        "_large": {
-          "src": {
-            "_id": "58b9499c6faa37e7449516af",
-            "_extension": "png",
-            "_type": "image",
-            "_size": "large"
-          }
-        }
-      },
-      "_contentWidth": 70,
-      "textAlignment": "left",
-      "layout": "center",
-      "_isEnabled": false
-    },
-    "_hidePageHeader": false,
-    "_categories": [],
-    "durationLabel": "🕜 ",
-    "linkText": "Let's go!",
-    "title": "How entrepreneurs develop products",
     "_type": "page",
     "_courseOrder": "5"
   }

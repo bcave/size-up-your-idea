@@ -23,11 +23,11 @@
   width: 32px;
   height: 8px;
   border-radius: 8px;
-  border: 1px solid #1e2225;
+  border: 1px solid #34495e;
 }
 
 .tags-count-chart-tag .tags-count-chart-tag-chart-item.selected {
-  background-color: #1e2225;
+  background-color: #34495e;
 }
 
 .tracker-login {

@@ -1,6 +1,7 @@
 {
   "_id": "58b69e3d6faa37e74495146f",
-  "__v": 12,
+  "__v": 14,
+  "_lockedByUserId": "5897aece50d3bf600d233ab1",
   "_extensions": {
     "_tags": {
       "_settings": {
@@ -2723,7 +2724,7 @@
               "@component-body-text-font-size": "15px",
               "@component-body-text-align": "left",
               "@component-body-text-font-family": "@font-1",
-              "@component-body-text-color": "@swatch-13",
+              "@component-body-text-color": "@swatch-9",
               "@component-body-text-background-color": "transparent"
             },
             "_componentTitleTextPadding": {
@@ -3028,7 +3029,7 @@
               "@article-title-text-font-weight": 700,
               "@article-title-text-font-size": "35px",
               "@article-title-text-background-color": "transparent",
-              "@article-title-text-color": "@swatch-13",
+              "@article-title-text-color": "@swatch-11",
               "@article-title-text-align": "left",
               "@article-title-text-font-family": "@font-1"
             },
@@ -3088,7 +3089,7 @@
               "@article-padding-right-tablet": "20px",
               "@article-padding-top-tablet": "20px",
               "@article-padding-left": "20px",
-              "@article-padding-bottom": "0px",
+              "@article-padding-bottom": "20px",
               "@article-padding-right": "20px",
               "@article-padding-top": "20px"
             },
@@ -3106,7 +3107,7 @@
               "@article-margin-right": "0px",
               "@article-margin-top": "0px"
             },
-            "@article-inner-max-width": "1024px",
+            "@article-inner-max-width": "none",
             "@article-max-width": "none",
             "@article-box-shadow": "0px 1px 1px 0px rgba(0,0,0,0.2)",
             "_articleBorderRadius": {
@@ -3130,7 +3131,7 @@
               "@article-border-top-width": "1px"
             },
             "@article-icon-size": "34px",
-            "@article-icon-color": "#000000",
+            "@article-icon-color": "transparent",
             "@article-icon-background-color": "transparent",
             "@article-background-color": "@swatch-11"
           },
@@ -3142,7 +3143,7 @@
             },
             "_articleTitleDecoration": {
               "_repeat": false,
-              "_position": "left",
+              "_position": "center",
               "_height": "30px"
             },
             "_mobileBackgroundImage": {
@@ -3159,7 +3160,7 @@
           }
         }
       },
-      "title": "Standard Block Blue"
+      "title": "Question banner"
     },
     "article-style-7": {
       "_elements": {
@@ -6862,7 +6863,7 @@
               "@component-body-text-margin-left": "0px",
               "@component-body-text-margin-bottom": "0px",
               "@component-body-text-margin-right": "15px",
-              "@component-body-text-margin-top": "40px"
+              "@component-body-text-margin-top": "0px"
             },
             "_componentBodyText": {
               "@component-body-text-line-height-mobile": 1.25,
@@ -6905,7 +6906,7 @@
               "@component-title-text-margin-left": "0px",
               "@component-title-text-margin-bottom": "15px",
               "@component-title-text-margin-right": "0px",
-              "@component-title-text-margin-top": "15px"
+              "@component-title-text-margin-top": "0px"
             },
             "_componentTitleText": {
               "@component-title-text-line-height-mobile": 1.25,
@@ -7164,7 +7165,7 @@
               "@article-title-text-margin-right-tablet": "0px",
               "@article-title-text-margin-top-tablet": "-20px",
               "@article-title-text-margin-left": "0px",
-              "@article-title-text-margin-bottom": "20px",
+              "@article-title-text-margin-bottom": "0px",
               "@article-title-text-margin-right": "0px",
               "@article-title-text-margin-top": "0px"
             },
@@ -7181,7 +7182,7 @@
               "@article-title-text-font-weight": 700,
               "@article-title-text-font-size": "35px",
               "@article-title-text-background-color": "@swatch-11",
-              "@article-title-text-color": "@swatch-5",
+              "@article-title-text-color": "rgba(0,0,0,1)",
               "@article-title-text-align": "center",
               "@article-title-text-font-family": "@font-1"
             },
@@ -7285,7 +7286,7 @@
             "@article-icon-size": "34px",
             "@article-icon-color": "@swatch-5",
             "@article-icon-background-color": "transparent",
-            "@article-background-color": "rgba(30,34,37,1)"
+            "@article-background-color": "@swatch-7"
           },
           "_settings": {
             "_articleIcon": "checkmark-circle",
@@ -10513,7 +10514,7 @@
       "title": "Tertiary Dark"
     },
     "@swatch-5": {
-      "color": "rgba(30,34,37,1)",
+      "color": "rgba(52,73,94,1)",
       "title": "Tertiary"
     },
     "@swatch-4": {
@@ -11117,7 +11118,7 @@
         "@component-item-background-disabled-color": "@swatch-25",
         "@component-item-background-selected-color": "@swatch-6",
         "@component-item-background-hover-color": "@swatch-6",
-        "@component-item-background-color": "rgba(30,34,37,1)"
+        "@component-item-background-color": "@swatch-7"
       }
     }
   },
@@ -12000,7 +12001,7 @@
         "@footer-border-top-style": "none",
         "@footer-border-top-width": "1px"
       },
-      "@footer-background-color": "rgba(30,34,37,1)"
+      "@footer-background-color": "@swatch-7"
     }
   },
   "_header": {
@@ -12017,7 +12018,7 @@
       }
     },
     "_variables": {
-      "@header-info-background-color": "rgba(30,34,37,1)",
+      "@header-info-background-color": "@swatch-7",
       "@header-info-text-color": "@swatch-14",
       "@header-icon-color": "#ffffff",
       "_headerBodyTextPadding": {
@@ -12377,7 +12378,7 @@
         "@notify-button-background-color": "@swatch-3"
       },
       "@notify-icon-size": "75px",
-      "@notify-icon-color": "@swatch-3",
+      "@notify-icon-color": "@swatch-1",
       "_notifyBodyTextPadding": {
         "@notify-body-text-padding-left-mobile": "0px",
         "@notify-body-text-padding-bottom-mobile": "0px",
@@ -12534,15 +12535,17 @@
         "@navigation-top-border-top-style": "none",
         "@navigation-top-border-top-width": "1px"
       },
-      "@navigation-top-background-color": "@swatch-8",
-      "@navigation-top-mobile-height": "40px",
-      "@navigation-top-height": "54px"
+      "@navigation-top-background-color": "@swatch-7",
+      "@navigation-top-mobile-height": "54px",
+      "@navigation-top-height": "70px"
     },
     "_settings": {
       "_navigationBranding": {
+        "small": "adapt/css/assets/themeAssets/images/5994675bc69d6ad508eef9fb.png",
+        "large": "adapt/css/assets/themeAssets/images/5994675bc69d6ad508eef9fb.png",
         "_smallHeight": "54px",
-        "_largeHeight": "54px",
-        "_isEnabled": false
+        "_largeHeight": "70px",
+        "_isEnabled": true
       },
       "_isHamburgerMenuOnRightSide": false,
       "_useHomeIconForDashboardButton": false,
@@ -12598,15 +12601,29 @@
       "_type": "image",
       "_name": "598a12a20b855b0c47d1941b.gif",
       "_url": "adapt/css/assets/themeAssets/images/598a12a20b855b0c47d1941b.gif"
+    },
+    {
+      "_url": "adapt/css/assets/themeAssets/images/59946615c69d6ad508eef9f9.png",
+      "_name": "59946615c69d6ad508eef9f9.png",
+      "_type": "image",
+      "title": "DBA Provisional Logo Aug2017 Colour",
+      "_id": "59946615c69d6ad508eef9f9"
+    },
+    {
+      "_id": "5994675bc69d6ad508eef9fb",
+      "title": "DBA Provisional Logo Aug2017 White",
+      "_type": "image",
+      "_name": "5994675bc69d6ad508eef9fb.png",
+      "_url": "adapt/css/assets/themeAssets/images/5994675bc69d6ad508eef9fb.png"
     }
   ],
   "_preset": {
     "_isFavourite": true,
     "_isCorePreset": false,
-    "title": "TC Black",
+    "title": "DBA Core Theme",
     "_shouldShowArticleStylesInPreview": false
   },
   "_editorIds": [],
-  "_isLocked": false,
+  "_isLocked": true,
   "_type": "theme"
 }

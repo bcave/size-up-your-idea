@@ -1,7 +1,7 @@
 {
   "_id": "598b06d32cb2f32b65813d9a",
   "_createdAt": 1502283475729,
-  "_modifiedAt": 1502467331796,
+  "_modifiedAt": 1503398909150,
   "__v": 1,
   "_refId": "58b01c1050d3bf600d233b89",
   "_theme": "58b69e3d6faa37e74495146f",
@@ -113,19 +113,19 @@
     "_isEnabled": true
   },
   "_courseAttainment": {
-    "completionBody": "<p>Well done! You have completed this course.</p>",
-    "closeWindowText": "Exit course",
-    "_shouldUseCorrectQuestions": false,
+    "completionBody": "",
+    "closeWindowText": "Back to DBA",
+    "_shouldUseCorrectQuestions": true,
     "_shouldCloseWindowOnCourseAttained": true,
     "_shouldHideSummaryAndIcon": true,
-    "completionNotifyTitle": "Course attained",
-    "completionTitle": "Course complete",
+    "completionNotifyTitle": "Course complete!",
+    "completionTitle": "Course complete!",
     "_attainmentMethod": "components",
     "_isEnabled": true,
-    "title": " "
+    "title": " Course complete!"
   },
   "_branding": {
-    "copyright": "<p style=\"text-align: center;\"><a href=\"http://www.digitalbusinessacademyuk.com/terms-conditions\" target=\"_blank\">Terms</a>&nbsp; &nbsp;&nbsp;<a href=\"http://www.digitalbusinessacademyuk.com/privacy-policy\" target=\"_blank\">Privacy</a>&nbsp; &nbsp;&nbsp;<a href=\"http://www.digitalbusinessacademyuk.com/faqs\" target=\"_blank\">FAQs</a></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">2017 Tech City UK ©</p>",
+    "copyright": "<p style=\"text-align: center;\"><a href=\"http://www.digitalbusinessacademyuk.com/privacy-policy\" target=\"_blank\">Privacy</a>&nbsp; &nbsp;I &nbsp; <a href=\"http://www.digitalbusinessacademyuk.com/cookies-policy\" target=\"_blank\">Cookies</a> &nbsp; I &nbsp;&nbsp;<a href=\"http://www.digitalbusinessacademyuk.com/terms-conditions\" target=\"_blank\">Terms</a>&nbsp; &nbsp;I&nbsp; &nbsp;<a href=\"http://www.digitalbusinessacademyuk.com/faqs\" target=\"_blank\">FAQs</a>&nbsp; &nbsp;I &nbsp; Copyright © 2017 <a href=\"http://www.techcityuk.com/\" target=\"_blank\">Tech City UK</a></p>",
     "_shouldPlaceFooterLogosWithCopyright": true,
     "_logos": {
       "_secondaryLogo": {
@@ -136,16 +136,16 @@
         "_isLocatedInFooter": true,
         "alignment": "center",
         "src": {
-          "_type": "image",
+          "_id": "598c3250abd446e07f9af8c7",
           "_extension": "png",
-          "_id": "598c3250abd446e07f9af8c7"
+          "_type": "image"
         }
       }
     },
     "_isEnabled": true
   },
   "_achievements": {
-    "body": "<p style=\"text-align: center;\">Welcome to rewards, where you can unlock some of the great goodies DBA has to offer...</p>",
+    "body": "<p style=\"text-align: right;\">Keep track of how many points you have unlocked.&nbsp;</p><p style=\"text-align: right;\"> </p><p style=\"text-align: right;\">You can&nbsp;<a href=\"http://www.digitalbusinessacademyuk.com/#/rewards\" target=\"_blank\">spend your points on the rewards page</a>.&nbsp;</p>",
     "_badges": {
       "_items": [
         {
@@ -218,7 +218,7 @@
       "pointsName": "Points",
       "_isEnabled": true
     },
-    "title": "Reward Points",
+    "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Points",
     "_isEnabled": true
   },
   "_pageBackgroundImage": {
@@ -319,9 +319,10 @@
     "_shouldHideMenu": true
   },
   "_version": {
-    "versionTitle": "UCL Edits",
-    "_isLanguageVersion": false,
-    "_isVersion": false
+    "_isVersion": false,
+    "_masterVersionId": null,
+    "versionTitle": null,
+    "_isLanguageVersion": false
   },
   "_reviews": {
     "_reviews": [
